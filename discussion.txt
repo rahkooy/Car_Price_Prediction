@@ -1,7 +1,20 @@
-todo
-EDA (Exploratory Data Analysis)
-Modeling (Linear Regression, Boosting, KNN, Random Forest, Decision Tree)
-Train/Test
-Visualization (Matplotlib, Seaborn, Folium)
-Results (Cross Validation)
-Documentation
+todo: (i: todo for Hamid, e: todo for Hamed)
+
+Steps: 
+  1-EDA (Exploratory Data Analysis)
+     ---Question: Which Data to use? Perhaps not AIRBNB?
+  2-Modeling 
+    -Linear Regression (i) 
+    -Boosting (i), 
+    -KNN (e),
+    -Random Forest (e), 
+    -Decision Tree (i)
+    -Train/Test (i, e)
+  3-Visualization 
+    -Matplotlib (i,e), 
+    -Seaborn (i,e), 
+    -Folium (i,e)
+  4- Results 
+    Cross Validation
+  --Add Documentation at each step
+
