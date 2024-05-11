@@ -1,2 +1,7 @@
 todo
-  1-Linear Regression
+EDA (Exploratory Data Analysis)
+Modeling (Linear Regression, Boosting, KNN, Random Forest, Decision Tree)
+Train/Test
+Visualization (Matplotlib, Seaborn, Folium)
+Results (Cross Validation)
+Documentation
