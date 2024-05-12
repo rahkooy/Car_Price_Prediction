@@ -28,3 +28,6 @@ Steps:
     Cross Validation
   --Add Documentation at each step
 
+
+USEFUL LINKS:
+https://www.kaggle.com/code/ashydv/housing-price-prediction-linear-regression
