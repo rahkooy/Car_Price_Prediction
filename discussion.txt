@@ -1,3 +1,5 @@
+Suggested dataset: https://www.kaggle.com/datasets/wspirat/germany-used-cars-dataset-2023
+
 todo: (i: todo for Hamid, e: todo for Hamed)
 
 Steps: 
