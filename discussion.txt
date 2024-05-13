@@ -1,15 +1,4 @@
-New file was added: Random_Forest.ipynb
-
-Suggested dataset:
-https://www.kaggle.com/datasets/wspirat/germany-used-cars-dataset-2023
-   --Pipelines and models via regression and KNN:
-   https://www.kaggle.com/code/alexandermalkov/training-predictions
-   --Pipeline, models and OPtimising:
-   https://www.kaggle.com/code/alexandermalkov/transfomers-pipeline-and-gridsearch
-   
-
-
-todo: (i: todo for Hamid, e: todo for Hamed)
+TOODO: (i: todo for Hamid, e: todo for Hamed)
 
 Steps: 
   1-EDA (Exploratory Data Analysis)
@@ -39,6 +28,12 @@ Steps:
   
   --Add Documentation at each step
 
+Dataset:
+https://www.kaggle.com/datasets/wspirat/germany-used-cars-dataset-2023
+   --Pipelines and models via regression and KNN:
+   https://www.kaggle.com/code/alexandermalkov/training-predictions
+   --Pipeline, models and OPtimising:
+   https://www.kaggle.com/code/alexandermalkov/transfomers-pipeline-and-gridsearch
 
-USEFUL LINKS:
+House Price Dataset:
 https://www.kaggle.com/code/ashydv/housing-price-prediction-linear-regression
