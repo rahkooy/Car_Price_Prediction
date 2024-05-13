@@ -1,5 +1,8 @@
 TOODO: (i: todo for Hamid, e: todo for Hamed)
 
+--Histagrams to be completed
+--Make conclusion out of huitograms and clean the data
+
 Steps: 
   1-EDA (Exploratory Data Analysis)
     - Initial Exploration
@@ -30,6 +33,9 @@ Steps:
 
 Dataset:
 https://www.kaggle.com/datasets/wspirat/germany-used-cars-dataset-2023
+  --Cleaned
+  https://www.kaggle.com/code/scarfsman/german-used-cars-data-cleaning-eda
+
    --Pipelines and models via regression and KNN:
    https://www.kaggle.com/code/alexandermalkov/training-predictions
    --Pipeline, models and OPtimising:
