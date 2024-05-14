@@ -1,6 +1,10 @@
 TOODO: (i: todo for Hamid, e: todo for Hamed)
 
---Histagrams to be completed 
+- completing EDA step:
+ - editing the diagrams
+ - selection of the features (to be deleted: model-fuel_consumption_g_km(optional)) (e)
+ - removing duplicated values
+
 --Make conclusion out of histograms and clean the data
 
 Steps: 
