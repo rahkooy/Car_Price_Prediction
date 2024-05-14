@@ -1,0 +1,6 @@
+- correlation chart from 
+https://www.kaggle.com/code/scarfsman/german-used-cars-data-cleaning-eda
+
+- Outliers detection with box plot 
+above link
+
