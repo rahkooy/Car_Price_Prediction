@@ -1,7 +1,7 @@
 TOODO: (i: todo for Hamid, e: todo for Hamed)
 
---Histagrams to be completed
---Make conclusion out of huitograms and clean the data
+--Histagrams to be completed 
+--Make conclusion out of histograms and clean the data
 
 Steps: 
   1-EDA (Exploratory Data Analysis)
