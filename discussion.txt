@@ -1,11 +1,9 @@
 TOODO: (i: todo for Hamid, e: todo for Hamed)
 
-- completing EDA step:
- - editing the diagrams
- - selection of the features (to be deleted: model-fuel_consumption_g_km(optional)) (e)
- - removing duplicated values
-
---Make conclusion out of histograms and clean the data
+    ---make a new clean_dataset.csv file
+    ---EDA to be put in a separate file
+    ---Models: to be completed using five fold cross validation and grid
+    
 
 Steps: 
   1-EDA (Exploratory Data Analysis)
