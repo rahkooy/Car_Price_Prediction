@@ -1,0 +1,490 @@
+brand,model,color,registration_date,year,price,power_kw,power_ps,transmission_type,fuel_type,fuel_consumption_l_100km,fuel_consumption_g_km,mileage_in_km,offer_description
+audi,Audi e-tron,red,11/2020,2020,62990,300.0,408,Automatic,Electric,430 km (Ort),391.0,7924.0,55 adv.+S-line quattro PANO/B&O/MATRIX/20
+audi,Audi A6,black,09/2020,2020,30990,220.0,299,Automatic,Hybrid,50 km (Ort),46.0,22767.0,50 TFSI e quattro Plug-in-HYBRID+VIRTUAL+LED+ACC
+audi,Audi Q4 e-tron,blue,03/2022,2022,47699,125.0,170,Automatic,Electric,455 km (Ort),327.0,9950.0,Sportback 35 E-TRON MATRIX-LED*ASSISTENZ-PAKET*NAV
+audi,Audi Q4 e-tron,blue,03/2022,2022,47499,125.0,170,Automatic,Electric,455 km (Ort),327.0,9950.0,Sportback 35 E-TRON MATRIX-LED*ASSISTENZ-PAKET*NAV
+audi,Audi Q4 e-tron,black,10/2022,2022,58850,220.0,299,Automatic,Electric,599 km (Ort),484.0,7550.0,"Q4 Sportback 50 e-tron quattro*2xS-line,21"",ACC*"
+bmw,BMW i3,grey,01/2014,2014,13990,125.0,170,Automatic,Electric,110 km (Ort),100.0,116150.0,i3 (60 Ah) Range Extender TÜV NEU
+bmw,BMW i3,black,10/2018,2018,19990,125.0,170,Automatic,Electric,346 km (Ort),247.0,52930.0,.94Ah RFK Navi Prof. Tempomat Parkassistent
+bmw,BMW i3,white,12/2018,2018,21490,125.0,170,Automatic,Electric,420 km (Ort),304.0,27326.0,120Ah WLAN GSD RFK Navi Prof. Tempomat Shz
+bmw,BMW i3,white,12/2018,2018,25470,125.0,170,Automatic,Electric,423 km (Ort),303.0,28622.0,1.HAND | UNFALLFREI | NAVI |
+bmw,BMW i3,beige,05/2019,2019,28500,135.0,184,Automatic,Electric,392 km (Ort),279.0,22600.0,s 120 Ah DAB LED WLAN GSD RFK Navi Prof.
+bmw,BMW i3,blue,12/2019,2019,44650,135.0,184,Automatic,Electric,392 km (Ort),279.0,43507.0,s 120 Ah HK HiFi DAB LED WLAN GSD RFK Shz PDC
+bmw,BMW i3,grey,10/2019,2019,24480,125.0,170,Automatic,Electric,423 km (Ort),306.0,9793.0,120Ah RFK Navi Prof. Komfortzg. Shz PDC
+bmw,BMW i3,grey,02/2019,2019,27900,135.0,184,Automatic,Electric,395 km (Ort),280.0,35929.0,s 120 Ah HK HiFi LED WLAN RFK Navi Prof. Shz
+bmw,BMW i3,red,09/2019,2019,30990,135.0,184,Automatic,Electric,402 km (Ort),283.0,18941.0,s 120 Ah LED WLAN Navi Prof. Komfortzg. Shz
+bmw,BMW i3,black,12/2019,2019,25190,135.0,184,Automatic,Electric,399 km (Ort),282.0,33935.0,s 120 Ah DAB RFK Navi Prof. Tempomat Shz PDC
+bmw,BMW i3,black,03/2019,2019,25900,125.0,170,Automatic,Electric,410 km (Ort),288.0,23800.0,120Ah Sportpaket WLAN Navi Prof. Tempomat
+bmw,BMW i3,black,02/2019,2019,27980,135.0,184,Automatic,Electric,403 km (Ort),283.0,16044.0,"i3s (120 Ah)*NaviProf*DrivingAssistantPlus*20""Alu*"
+bmw,BMW i3,black,06/2019,2019,24880,125.0,170,Automatic,Electric,424 km (Ort),307.0,19138.0,(120 Ah)*NavigationProfessional*WirelessCharging*
+bmw,BMW i3,white,07/2019,2019,27880,135.0,184,Automatic,Electric,399 km (Ort),282.0,31678.0,i3s (120 Ah)*NaviProf*DAB*DrivingAssistant+*CCS*
+bmw,BMW i3,white,09/2019,2019,29690,125.0,170,Automatic,Electric,420 km (Ort),303.0,16299.0,120Ah WLAN Navi Prof. Tempomat Klimaaut. Shz
+bmw,BMW i3,beige,07/2020,2020,29190,135.0,184,Automatic,Electric,400 km (Ort),282.0,250.0,s 120 Ah DAB LED WLAN Navi Prof. Tempomat Shz
+bmw,BMW i3,blue,10/2020,2020,28140,135.0,184,Automatic,Electric,393 km (Ort),280.0,36583.0,s 120 Ah () DAB WLAN GSD RFK Navi Prof. Shz
+bmw,BMW i3,blue,01/2020,2020,27897,125.0,170,Automatic,Electric,416 km (Ort),300.0,29200.0,120Ah Navi-Pro/Glasdach/Driving+/Parken/Ad.LED
+bmw,BMW i3,red,05/2020,2020,28896,135.0,184,Automatic,Electric,398 km (Ort),281.0,16782.0,s 120 Ah Navi-Pro/Driving+/Ad.LED/Kamera/PDC
+bmw,BMW i3,red,01/2020,2020,25980,75.0,102,Automatic,Electric,393 km (Ort),284.0,33873.0,"s 120 Ah  LED GSD KAMERA NAVI PROF. ALU 20"""
+bmw,BMW i3,black,06/2020,2020,56990,135.0,184,Automatic,Electric,399 km (Ort),282.0,53060.0,s Navi Prof.*PDC*Comfortpaket*Sitzheizung
+bmw,BMW i3,black,10/2020,2020,28990,135.0,184,Automatic,Electric,363 km (Ort),283.0,9150.0,s Wärmep ACC Adaptive LED Navi Prof. Sitzh.
+bmw,BMW i3,white,02/2020,2020,27480,135.0,184,Automatic,Electric,395 km (Ort),280.0,16400.0,s 120 Ah DAB WLAN GSD RFK Navi Prof. Tempomat
+bmw,BMW i3,white,04/2020,2020,23890,75.0,102,Automatic,Electric,421 km (Ort),308.0,4353.0,"120Ah WLAN NAVI PROF. GRA PDC ALU 19"""
+bmw,BMW X1,white,07/2020,2020,33000,162.0,220,Automatic,Other,59 km (Ort),51.0,23000.0,X1 XDrive 25e Sport Line
+bmw,BMW i3,white,05/2020,2020,25896,125.0,170,Automatic,Electric,413 km (Ort),289.0,30313.0,120Ah Sportpaket/Kamera/PDC/20Zoll
+bmw,BMW i3,white,10/2020,2020,25530,75.0,102,Automatic,Electric,420 km (Ort),359.0,23674.0,120Ah *DAB*WLAN*RFK*Navi Prof.*Tempomat*Shz*
+bmw,BMW i3,blue,04/2021,2021,25480,125.0,170,Automatic,Electric,425 km (Ort),307.0,21737.0,120Ah DAB Shz
+bmw,BMW iX3,grey,08/2021,2021,59900,210.0,286,Automatic,Electric,564 km (Ort),453.0,4463.0,Gestiksteuerung Head-Up HK HiFi DAB LED Shz
+bmw,BMW i3,black,04/2021,2021,26090,125.0,170,Automatic,Electric,423 km (Ort),359.0,24224.0,120Ah Navi Prof PA RFK DAB PDC WLAN
+bmw,BMW i3,black,04/2021,2021,30090,135.0,184,Automatic,Electric,397 km (Ort),281.0,18124.0,s 120 Ah () DAB LED WLAN RFK Navi Prof. Shz
+bmw,BMW i3,black,03/2021,2021,26980,75.0,102,Automatic,Electric,424 km (Ort),307.0,12956.0,"120Ah DAB LED GRA  NAVI PROF. ALU 19"""
+bmw,BMW i3,black,09/2021,2021,30790,135.0,184,Automatic,Electric,399 km (Ort),282.0,3750.0,s 120 Ah DAB RFK Navi Bus. Komfortzg. Shz PDC
+bmw,BMW iX,black,12/2021,2021,84999,385.0,523,Automatic,Electric,600 km (Ort),570.0,25000.0,iX xDrive50
+bmw,BMW iX3,white,07/2021,2021,56990,210.0,286,Automatic,Electric,571 km (Ort),458.0,2904.0,DAB LED Parkassistent Klimaaut. Shz
+bmw,BMW i3,white,05/2021,2021,27490,135.0,184,Automatic,Electric,399 km (Ort),282.0,32616.0,s 120 Ah*WLAN*Komfortzugang*Navi Prof*
+bmw,BMW i3,white,04/2021,2021,27806,125.0,170,Automatic,Electric,411 km (Ort),289.0,12178.0,120Ah | Sportpaket | Wärmep.| Navi Prof. etc.
+bmw,BMW i3,white,05/2021,2021,27490,135.0,184,Automatic,Electric,399 km (Ort),282.0,20638.0,s 120 Ah*Navi Prof*Driving A Plus*Tempomat*
+bmw,BMW i3,white,05/2021,2021,26990,135.0,184,Automatic,Electric,399 km (Ort),284.0,23418.0,s 120 Ah*Navi*Driv A Plus*DAB*Keyless*20 Zoll*
+bmw,BMW 330,grey,01/2022,2022,51300,215.0,292,Automatic,Other,60 km (Ort),56.0,8300.0,330e Touring xDrive*M-Paket*Laser*PaDa*Top
+bmw,BMW i4,grey,12/2022,2022,86300,400.0,544,Automatic,Electric,561 km (Ort),499.0,7500.0,M50 LH RFK SHZ NAVI HuD ACC AHK HK HiFi DAB
+bmw,BMW i3,black,04/2022,2022,33500,135.0,184,Automatic,Electric,397 km (Ort),281.0,23100.0,"s 120 Ah Navi 20"" LMR"
+bmw,BMW i4,black,02/2022,2022,62600,250.0,340,Manual,Electric,669 km (Ort),574.0,23500.0,eDrive 40 Gran Coupé Laserlicht adaptives M Fahrwe
+bmw,BMW iX3,white,12/2022,2022,64500,210.0,286,Manual,Electric,563 km (Ort),453.0,4000.0,Impressive Gestiksteuerung Head-Up HK HiFi
+bmw,BMW i4,white,12/2022,2022,69900,400.0,544,Automatic,Electric,567 km (Ort),502.0,3500.0,M50 - mit AHK - HJW von WA
+bmw,BMW i3,white,06/2022,2022,32480,75.0,102,Automatic,Electric,420 km (Ort),283.0,5312.0,120Ah LED Tempo Navi Kamera WLAN Sitzheiz Klimaaut
+bmw,BMW iX,white,06/2022,2022,94900,385.0,523,Automatic,Electric,678 km (Ort),592.0,26626.0,xDrive50 22 Zoll*Harman Kardon*360 Kamera*Luftfede
+bmw,BMW iX,white,05/2022,2022,104900,397.0,540,Automatic,Electric,600 km (Ort),545.0,11436.0,M60 Sky Lounge*Bowers*Sitzbelüftung*AHK* DAB
+bmw,BMW iX,white,06/2022,2022,67800,240.0,326,Manual,Electric,462 km (Ort),399.0,26000.0,xDrive40 Sportpaket HK HiFi DAB Pano.Dach
+bmw,BMW iX1,white,12/2022,2022,54899,230.0,313,Automatic,Electric,497 km (Ort),417.0,3620.0,"M,XDrive,Massages.,harman,Schiebedach,Sport,19"""
+bmw,BMW iX,grey,05/2023,2023,79990,240.0,326,Manual,Electric,461 km (Ort),398.0,1586.0,xDrive40 Sportpaket HK HiFi DAB Pano.Dach
+bmw,BMW i5,grey,06/2023,2023,85400,250.0,340,Automatic,Electric,642 km (Ort),533.0,2000.0,BMW i5 eDrive40 Limousine
+bmw,BMW 230,grey,01/2023,2023,50500,240.0,326,Automatic,Hybrid,106 km (Ort),91.0,11000.0,2er Active Tourer 230e xDrive Active Tourer Aut. L
+bmw,BMW i7,grey,04/2023,2023,169990,400.0,544,Manual,Electric,662 km (Ort),598.0,5500.0,xDrive60 M Sport HuD PANO ACC 360° AHK DAB
+bmw,BMW iX1,black,04/2023,2023,60970,200.0,272,Manual,Electric,510 km (Ort),425.0,4500.0,xDrive30 M-Sport-BAFA Abzug möglich-Prof-Paket-AHK
+bmw,BMW iX,black,02/2023,2023,119940,397.0,540,Automatic,Electric,607 km (Ort),547.0,3990.0,M60 B&W //Aktionspreis bei Zulassung in DE
+bmw,BMW iX1,white,05/2023,2023,55000,200.0,272,Manual,Electric,521 km (Ort),433.0,2400.0,xDrive30 M Sportpaket Head-Up DAB LED RFK
+bmw,BMW i4,white,05/2023,2023,50900,210.0,286,Automatic,Electric,483 km (Ort),406.0,10.0,eDrive 35 ~sofort verfügbar~*M Sport*AHK*
+citroen,Citroen C4,silver,10/2021,2021,27990,100.0,136,Automatic,Electric,354 km (Ort),348.0,14500.0,e-C4 136 SHINE
+citroen,Citroen C4,brown,12/2022,2022,32850,100.0,136,Automatic,Electric,486 km (Ort),346.0,2000.0,e-C4 136 FEEL
+citroen,Citroen C4,grey,12/2022,2022,36989,100.0,136,Automatic,Electric,350 km (Ort),354.0,10.0,Elektromotor 136 C-Series*Navi*Kälte Paket
+citroen,Citroen Berlingo,grey,12/2022,2022,34400,100.0,136,Automatic,Electric,279 km (Ort),279.0,1500.0,ë-Berlingo M Elektromotor 136 SHINE
+citroen,Citroen C5 X,white,10/2022,2022,39950,165.0,224,Automatic,Hybrid,69 km (Ort),63.0,4000.0,Hybrid 225 Start&Stopp e-EAT8 SHINE
+citroen,Citroen C5 X,white,12/2022,2022,47290,165.0,224,Automatic,Hybrid,69 km (Ort),63.0,2000.0,Hybrid 225 Start&Stopp e-EAT8 SHINE PACK
+citroen,Citroen C5 X,white,12/2022,2022,48200,165.0,224,Automatic,Hybrid,69 km (Ort),63.0,2000.0,Hybrid 225 Start&Stopp e-EAT8 SHINE PACK
+citroen,Citroen C4,grey,02/2023,2023,32690,100.0,136,Automatic,Electric,486 km (Ort),346.0,10.0,e-C4 136 C-SERIES
+citroen,Citroen C4,grey,02/2023,2023,37850,100.0,136,Automatic,Electric,486 km (Ort),346.0,1000.0,e-C4 136 C-SERIES
+citroen,Citroen C4,red,01/2023,2023,35490,100.0,136,Automatic,Electric,486 km (Ort),346.0,10.0,e-C4 136 SHINE
+dacia,Dacia Spring,silver,11/2021,2021,16980,33.0,45,Automatic,Electric,305 km (Ort),230.0,5600.0,Comfort Plus
+dacia,Dacia Spring,white,07/2021,2021,22900,33.0,45,Automatic,Electric,305 km (Ort),230.0,4000.0,Business *JETZT PROBEFAHREN*
+dacia,Dacia Spring,grey,12/2022,2022,16990,33.0,45,Automatic,Electric,305 km (Ort),230.0,100.0,Comfort Plus KLIMA NAVI KAMERA LEDER sofort !!
+dacia,Dacia Spring,grey,08/2022,2022,16488,33.0,45,Automatic,Electric,305 km (Ort),230.0,1000.0,Comfort Plus/ MWSt ent./50M.Garant/CCSLade/Kamera
+dacia,Dacia Spring,black,12/2022,2022,23990,33.0,45,Automatic,Electric,305 km (Ort),230.0,50.0,ESSENTIAL
+dacia,Dacia Spring,white,02/2022,2022,17990,33.0,45,Automatic,Electric,305 km (Ort),230.0,6500.0,Comfort Plus
+dacia,Dacia Spring,white,12/2022,2022,17890,33.0,45,Automatic,Electric,305 km (Ort),230.0,50.0,Electric Essential Expression Paket
+dacia,Dacia Spring,white,01/2022,2022,19900,33.0,45,Automatic,Electric,230 km (Ort),230.0,20023.0,Comfort Plus
+dacia,Dacia Spring,grey,03/2023,2023,19490,33.0,45,Automatic,Electric,305 km (Ort),230.0,50.0,ESSENTIAL Electric 45
+dacia,Dacia Spring,black,04/2023,2023,23459,33.0,45,Automatic,Electric,305 km (Ort),230.0,6500.0,ESSENTIAL
+dacia,Dacia Spring,white,03/2023,2023,16249,33.0,45,Automatic,Electric,305 km (Ort),230.0,51.0,ESSENTIAL CCS NAVI KLIMA BT-RADIO R-KAMERA eCALL
+dacia,Dacia Spring,white,02/2023,2023,17499,33.0,45,Automatic,Electric,305 km (Ort),230.0,10.0,ESSENTIAL NAVI KLIMA RÜCKFAHRKAMERA PDC-HINTEN ISO
+fiat,Fiat 500e,grey,11/2021,2021,23500,87.0,118,Automatic,Electric,460 km (Ort),321.0,8000.0,ICON MJ 22
+fiat,Fiat 500,grey,08/2021,2021,29750,87.0,118,Automatic,Electric,447 km (Ort),312.0,6335.0,Icon
+fiat,Fiat 500,grey,06/2021,2021,26390,87.0,118,Automatic,Electric,447 km (Ort),312.0,10400.0,Icon
+fiat,Fiat 500,black,12/2021,2021,24850,87.0,118,Automatic,Electric,400 km (Ort),260.0,11005.0,Icon
+fiat,Fiat 500,blue,12/2022,2022,32995,87.0,118,Automatic,Electric,460 km (Ort),298.0,15.0,"By Bocelli 42 kWh Sie sparen 9.735,00 Euro ! Wi..."
+fiat,Fiat 500e,grey,11/2022,2022,33490,87.0,118,Automatic,Electric,438 km (Ort),307.0,1000.0,500 e 3+1 Icon
+fiat,Fiat 500e,red,11/2022,2022,30990,85.0,116,Unknown,Electric,320 km (Ort),245.0,3800.0,Cross RED Sie sparen 8.190 Euro 1.6 96kW (130PS...
+fiat,Fiat 500e,black,12/2022,2022,18800,70.0,95,Automatic,Electric,257 km (Ort),190.0,3500.0,ICON
+fiat,Fiat 500e,green,01/2023,2023,35900,87.0,118,Automatic,Electric,320 km (Ort),320.0,293.0,Cabrio Icon NAVI/SHZ verfügbar ab 01/24
+ford,Ford Kuga,blue,07/2020,2020,29500,112.0,152,Automatic,Hybrid,60 km (Ort),60.0,36000.0,"1,5 EcoBoost Aut. ST-Line +iACC +adapt.LED"
+ford,Ford Explorer,blue,08/2020,2020,63990,336.0,457,Automatic,Hybrid,45 km (Ort),40.0,12500.0,EcoBoost Plug-in Hybrid ST-LINE
+ford,Ford Explorer,grey,09/2020,2020,56900,336.0,457,Automatic,Hybrid,45 km (Ort),40.0,19943.0,320 L1 185PS SHZ Rampe BTW KMP
+ford,Ford Mustang Mach-E,white,12/2020,2020,39050,190.0,258,Automatic,Electric,480 km (Ort),400.0,7000.0,AWD *SYNC4*NAVI*B&O*LED*TWA*ACC*
+ford,Ford Mustang Mach-E,blue,09/2021,2021,66900,358.0,487,Automatic,Electric,588 km (Ort),50.0,7132.0,523 Mustang Mach-E GT AWD
+ford,Ford Kuga,blue,08/2021,2021,30950,165.0,224,Automatic,Hybrid,71 km (Ort),56.0,49950.0,2.5 Duratec PHEV ST-LINE X
+ford,Ford Mustang Mach-E,grey,10/2021,2021,48970,258.0,351,Automatic,Electric,642 km (Ort),540.0,20000.0,AWD 99kWh
+ford,Ford Mustang Mach-E,grey,06/2021,2021,51990,258.0,351,Automatic,Electric,642 km (Ort),540.0,15000.0,AWD 99kWh
+ford,Ford Mustang Mach-E,grey,06/2021,2021,58499,258.0,351,Automatic,Electric,642 km (Ort),540.0,12885.0,AWD First Edition Panoramadach
+ford,Ford Explorer,grey,12/2021,2021,69850,336.0,457,Automatic,Hybrid,45 km (Ort),40.0,14300.0,EcoBoost Plug-in Hybrid ST-LINE
+ford,Ford Kuga,grey,11/2021,2021,35990,165.0,224,Automatic,Hybrid,71 km (Ort),56.0,800.0,2.5 Duratec PHEV TITANIUM X
+ford,Ford Kuga,red,12/2021,2021,35490,165.0,224,Automatic,Hybrid,71 km (Ort),56.0,21530.0,2.5 Duratec PHEV ST-LINE X
+ford,Ford Kuga,red,12/2021,2021,40290,165.0,224,Automatic,Hybrid,71 km (Ort),56.0,11000.0,2.5 Duratec PHEV ST-LINE X (DFK)
+ford,Ford Explorer,black,12/2021,2021,24490,336.0,457,Automatic,Hybrid,45 km (Ort),40.0,28900.0,"EcoBoost Plug-in Hybrid ST-LINE, AHK"
+ford,Ford Mustang,black,08/2021,2021,52900,258.0,351,Automatic,Electric,540 km (Ort),540.0,38000.0,MACH-E AWD
+ford,Ford Explorer,silver,12/2021,2021,64990,336.0,457,Automatic,Hybrid,44 km (Ort),42.0,35000.0,EcoBoost Plug-in Hybrid ST-LINE
+ford,Ford Mustang Mach-E,orange,10/2021,2021,62990,358.0,487,Automatic,Electric,588 km (Ort),500.0,12400.0,AWD GT *SYNC4*NAVI*LED*TWA*RFK*
+ford,Ford Mustang Mach-E,grey,01/2022,2022,51990,198.0,269,Automatic,Electric,480 km (Ort),400.0,13200.0,AWD *NAVI*B&O*360-KAMERA*LED*TWA*
+ford,Ford Kuga,grey,05/2022,2022,34990,165.0,224,Automatic,Hybrid,71 km (Ort),56.0,9456.0,2.5 PHEV Plug-In Hybrid Cool & Connect
+ford,Ford Mustang Mach-E,grey,09/2022,2022,55500,258.0,351,Automatic,Electric,642 km (Ort),540.0,2200.0,AWD (Extended Range) 99 kwh
+ford,Ford Mustang Mach-E,red,08/2022,2022,48500,198.0,269,Automatic,Electric,480 km (Ort),400.0,12822.0,437 Mustang Mach-E Dual Motor AWD Premium
+ford,Ford Mustang,red,07/2022,2022,55990,258.0,351,Automatic,Electric,642 km (Ort),540.0,15000.0,"AWD Mach-E, Extended Range, FGS, 8-fach bereift"
+ford,Ford Kuga,black,12/2022,2022,47990,165.0,224,Automatic,Hybrid,71 km (Ort),57.0,5500.0,2.5 PHEV TITANIUM X *Top-Ausstattung*
+ford,Ford Kuga,black,05/2022,2022,38850,165.0,224,Automatic,Hybrid,71 km (Ort),56.0,18000.0,2.5 Duratec PHEV ST-LINE X (DFK)
+ford,Ford E-Transit,silver,04/2022,2022,60499,135.0,184,Automatic,Electric,392 km (Ort),245.0,1131.0,e-Transit 350 L3H3 Lkw HA Trend
+ford,Ford Kuga,silver,08/2022,2022,37950,165.0,224,Automatic,Hybrid,71 km (Ort),56.0,7300.0,2.5 Duratec PHEV ST-LINE X
+ford,Ford Kuga,silver,09/2022,2022,39900,165.0,224,Automatic,Hybrid,75 km (Ort),60.0,12000.0,"2.5 Duratec PHEV ST-LINE X, 20"", 225PS"
+ford,Ford Kuga,silver,02/2022,2022,37990,165.0,224,Automatic,Hybrid,71 km (Ort),56.0,10278.0,2.5 PHEV Plug-In Hybrid Titanium X
+ford,Ford Mustang Mach-E,silver,12/2022,2022,52488,198.0,269,Automatic,Electric,400 km (Ort),440.0,51.0,Standard Range B&O NAVI LED KAMERA E-HECKKLAPPE
+ford,Ford Mustang Mach-E,white,08/2022,2022,51900,216.0,294,Automatic,Electric,739 km (Ort),610.0,9296.0,652 Mustang Mach-E Extended Range RWD Basis
+ford,Ford Kuga,white,09/2022,2022,41490,165.0,224,Automatic,Hybrid,71 km (Ort),57.0,10000.0,2.5 Duratec PHEV ST-LINE X / Panorama-Schiebedach
+ford,Ford Mustang Mach-E,orange,12/2022,2022,54980,198.0,269,Automatic,Electric,400 km (Ort),400.0,10.0,AWD Matrix-LED NAVI KAMERA SITZHEIZUNG SYNC4
+ford,Ford Mustang Mach-E,orange,12/2022,2022,54980,198.0,269,Automatic,Electric,400 km (Ort),440.0,10.0,AWD MATRIX-LED ACC CO-PILOT360 KAMERA PDC-V+H uvw.
+ford,Ford Mustang,blue,04/2023,2023,69995,358.0,487,Automatic,Electric,588 km (Ort),490.0,75.0,GT AWD Mach-E *Panoramadach*
+ford,Ford Mustang Mach-E,grey,01/2023,2023,56700,216.0,294,Automatic,Electric,739 km (Ort),610.0,1500.0,Extended 99 KWH Heckantrieb 610 k
+ford,Ford Explorer,green,05/2023,2023,74987,331.0,450,Manual,Hybrid,42 km (Ort),42.0,51.0,3.0 PHEV PLATINUM FORGED-GREEN-METALLIC
+honda,Honda e,blue,12/2022,2022,33250,113.0,154,Automatic,Electric,210 km (Ort),210.0,2500.0,Advance-Paket*Modell2023*17Zoll
+honda,Honda e,grey,10/2022,2022,39900,113.0,154,Automatic,Electric,210 km (Ort),210.0,5000.0,"Advance (17"")"
+hyundai,Hyundai KONA,yellow,01/2019,2019,26500,150.0,204,Automatic,Electric,640 km (Ort),460.0,29300.0,EV Premium
+hyundai,Hyundai IONIQ,grey,07/2019,2019,21990,88.0,120,Automatic,Electric,249 km (Ort),240.0,15800.0,Elektro Style
+hyundai,Hyundai KONA,red,11/2020,2020,27490,100.0,136,Automatic,Electric,435 km (Ort),305.0,30570.0,EV Trend
+hyundai,Hyundai KONA Elektro,white,12/2020,2020,31500,150.0,204,Automatic,Electric,550 km (Ort),460.0,17500.0,Akku 64kw
+hyundai,Hyundai IONIQ,white,04/2020,2020,21619,88.0,120,Automatic,Electric,1 km (Ort),310.0,31700.0,Premium Elektro **Sofort Verfügbar**
+hyundai,Hyundai KONA,white,02/2020,2020,25900,100.0,136,Automatic,Electric,407 km (Ort),289.0,18556.0,EV Style LED Navi Kam PDC SH Apps BT ACC
+hyundai,Hyundai IONIQ 5,beige,12/2021,2021,40990,160.0,218,Automatic,Electric,646 km (Ort),451.0,50284.0,"72,6 kWh Dynamiq"
+hyundai,Hyundai TUCSON,blue,05/2021,2021,39990,195.0,265,Automatic,Hybrid,62 km (Ort),74.0,10700.0,1.6 T-GDi Plug-in-Hybrid 4WD Trend
+hyundai,Hyundai TUCSON,green,12/2021,2021,36990,195.0,265,Automatic,Hybrid,62 km (Ort),74.0,20000.0,1.6 T-GDi Plug-in-Hybrid 4WD Trend
+hyundai,Hyundai TUCSON,red,10/2021,2021,42350,195.0,265,Automatic,Hybrid,74 km (Ort),62.0,21000.0,Tucson 1.6 T-GDI N-Line Plug-In Hybrid Navi LED BC
+hyundai,Hyundai KONA,silver,04/2021,2021,37990,150.0,204,Automatic,Electric,660 km (Ort),484.0,6165.0,EV Trend
+hyundai,Hyundai KONA,white,03/2021,2021,29990,150.0,204,Automatic,Electric,660 km (Ort),484.0,21190.0,"Elektro 150kW Trend, Navi-Paket, Winterr., Kamera"
+hyundai,Hyundai IONIQ 5,beige,10/2022,2022,51990,160.0,218,Automatic,Electric,646 km (Ort),451.0,9720.0,"72,6 kWh Uniq"
+hyundai,Hyundai KONA,blue,04/2022,2022,37790,150.0,204,Automatic,Electric,660 km (Ort),484.0,12500.0,KONA EV PRIME *sofort verfügbar*
+hyundai,Hyundai IONIQ 5,brown,10/2022,2022,43889,160.0,218,Automatic,Electric,646 km (Ort),451.0,10100.0,"72,6 kWh,ASCC,VOLL-LED,NAVI,2-ZONENKLIMAAUTO,SH,LH"
+hyundai,Hyundai KONA,red,10/2022,2022,39990,150.0,204,Automatic,Electric,660 km (Ort),484.0,120.0,"Elektro Edition Navigationsystem, Soundsystem, ..."
+hyundai,Hyundai TUCSON,red,06/2022,2022,42480,195.0,265,Automatic,Hybrid,62 km (Ort),74.0,10000.0,"1.6 T-GDi Plug-in-Hybrid 4WD Prime,KRELL SOUND,DAB"
+hyundai,Hyundai KONA,red,12/2022,2022,41260,100.0,136,Automatic,Electric,435 km (Ort),305.0,3500.0,KONA Elektro BEV Trend-Paket +Navi-Paket+Assistenz
+hyundai,Hyundai TUCSON,black,07/2022,2022,39500,132.0,179,Automatic,Hybrid,50 km (Ort),55.0,7900.0,1.6 T-GDi HEV 4WD Prime
+hyundai,Hyundai IONIQ,black,12/2022,2022,29888,104.0,141,Automatic,Hybrid,66 km (Ort),52.0,10.0,Plug-in-Hybrid 1.6 GDI Advantage (AE)
+hyundai,Hyundai TUCSON,white,04/2022,2022,43990,195.0,265,Automatic,Hybrid,62 km (Ort),74.0,12000.0,1.6 T-GDi Plug-in-Hybrid 4WD N Line
+hyundai,Hyundai TUCSON,white,06/2022,2022,39990,195.0,265,Automatic,Hybrid,74 km (Ort),62.0,8000.0,Plug-in-Hybrid  +Trend-P.+Kamera+SHZ+Klima+
+hyundai,Hyundai IONIQ 6,grey,03/2023,2023,63799,239.0,325,Automatic,Electric,658 km (Ort),519.0,39.0,"77,4 kWh 4WD Techniq"
+hyundai,Hyundai IONIQ 6,silver,02/2023,2023,56950,239.0,325,Manual,Electric,658 km (Ort),519.0,3800.0,"77,4 kWh 4WD Uniq"
+hyundai,Hyundai TUCSON,silver,06/2023,2023,46990,132.0,179,Automatic,Hybrid,62 km (Ort),74.0,20.0,1.6 T-GDi Plug-in-Hybrid 4WD Prime
+hyundai,Hyundai KONA,white,03/2023,2023,28960,100.0,136,Automatic,Electric,435 km (Ort),305.0,15.0,"EV Select,ASCC,RÜCKFAHRKAMERA,KLIMAAUTOMATIK,DAB+,"
+hyundai,Hyundai KONA,white,03/2023,2023,35990,100.0,136,Automatic,Electric,435 km (Ort),305.0,10.0,EV Trend (OS)
+jaguar,Jaguar I-Pace,grey,02/2021,2021,62490,294.0,400,Automatic,Electric,594 km (Ort),454.0,4714.0,I-PACE S EV400S BLACKPAK+PANO+STD-HEIZ.+HEAD-UP
+jeep,Jeep Renegade,grey,12/2020,2020,31690,177.0,241,Automatic,Other,55 km (Ort),50.0,13055.0,S PHEV 4Xe Voll-LED/NAV/Park-/Sicht-/Winter Paket/
+jeep,Jeep Wrangler,blue,12/2021,2021,71988,280.0,381,Automatic,Hybrid,53 km (Ort),44.0,103.0,Unlimited 2.0 PHEV AUTOMATIK Sahara LEDER SICHTP.
+jeep,Jeep Compass,blue,12/2022,2022,39488,177.0,241,Automatic,Hybrid,52 km (Ort),49.0,51.0,4xe PHEV S TECHNOLOGIE- WINTER- LEDER-P. MODE3-LAD
+jeep,Jeep Compass,grey,12/2022,2022,39585,177.0,241,Automatic,Hybrid,52 km (Ort),47.0,51.0,4xe PHEV S TECHNOLOGIE- WINTER- LEDER-P. MODE3-LAD
+jeep,Jeep Renegade,grey,07/2022,2022,39999,177.0,241,Automatic,Hybrid,54 km (Ort),47.0,10.0,1.3 T-GDI 4xe PLUG-IN Hybrid NAVI WINTER-PKT R-KAM
+jeep,Jeep Compass,black,12/2022,2022,39585,177.0,241,Automatic,Hybrid,52 km (Ort),47.0,51.0,4xe PHEV S TECHNOLOGIE- WINTER- LEDER-P. MODE3-LAD
+jeep,Jeep Compass,white,11/2022,2022,39488,177.0,241,Automatic,Hybrid,52 km (Ort),49.0,51.0,4xe PHEV S TECHNOLOGIE- WINTER- LEDER-P. MODE3-LAD
+jeep,Jeep Compass,white,12/2022,2022,38988,133.0,181,Automatic,Hybrid,56 km (Ort),47.0,10.0,4xe PHEV Trailhawk LEDER WINTER MODE3-Ladekabel
+jeep,Jeep Renegade,blue,06/2023,2023,48061,139.0,189,Automatic,Hybrid,55 km (Ort),48.0,5000.0,"Renegade PHEV MY23 S-Edition, Klimaautomatik"
+kia,Kia Niro,white,01/2019,2019,24450,104.0,141,Automatic,Hybrid,58 km (Ort),58.0,50900.0,1.6 PHEV Vision | Navi
+kia,Kia Soul,blue,12/2020,2020,31990,150.0,204,Automatic,Electric,464 km (Ort),464.0,23500.0,e-Soul Vision
+kia,Kia Niro,grey,08/2020,2020,31500,150.0,204,Automatic,Electric,300 km (Ort),450.0,80000.0,e- Spirit (DE)
+kia,Kia EV6,blue,10/2021,2021,46990,168.0,228,Automatic,Electric,687 km (Ort),504.0,22500.0,"77,4-kWh GT-line"
+kia,Kia EV6,grey,12/2021,2021,42550,125.0,170,Automatic,Electric,578 km (Ort),394.0,5880.0,58-kWh
+kia,Kia EV6,green,11/2021,2021,38000,125.0,170,Automatic,Electric,578 km (Ort),394.0,11800.0,58-kWh
+kia,Kia e-Niro,black,04/2021,2021,32000,150.0,204,Unknown,Electric,550 km (Ort),400.0,20600.0,Spirit
+kia,Kia Ceed SW / cee'd SW,silver,12/2021,2021,37600,77.0,105,Automatic,Other,57 km (Ort),47.0,29.0,1.6 GDI DCT OPF Plug-in-Hybrid Platinum
+kia,Kia Niro,blue,07/2022,2022,33990,135.0,184,Automatic,Hybrid,76 km (Ort),59.0,9900.0,1.6 GDI PHEV 2WD OPF Aut. Spirit
+kia,Kia XCeed,grey,11/2022,2022,37780,104.0,141,Automatic,Hybrid,58 km (Ort),58.0,5000.0,XCeed 1.6 GDI DCT6 Plug-In Platinum/Glasdach
+kia,Kia EV6,grey,12/2022,2022,52950,239.0,325,Automatic,Electric,630 km (Ort),506.0,8000.0,"77,4-kWh AWD"
+kia,Kia XCeed,grey,12/2022,2022,28390,104.0,141,Automatic,Hybrid,54 km (Ort),42.0,149.0,1.6 GDI DCT6 OPF Plug-in-Hybrid VISION + Komfort
+kia,Kia Ceed / cee'd,grey,06/2022,2022,31990,104.0,141,Automatic,Hybrid,57 km (Ort),50.0,5266.0,SW 1.6 GDI DCT OPF Plug-in-Hybrid Vision
+kia,Kia EV6,silver,07/2022,2022,51500,239.0,325,Automatic,Electric,500 km (Ort),500.0,9300.0,"EV6 77,4-kWh  GT-line, AWD,WP,P5,P6,AHK"
+kia,Kia Niro,grey,05/2023,2023,47900,150.0,204,Automatic,Electric,460 km (Ort),460.0,2500.0,EV Beyond30 Wärmepumpe+DriveWise+Tech+Relax
+kia,Kia Niro,grey,05/2023,2023,49990,150.0,204,Automatic,Electric,604 km (Ort),406.0,1500.0,"EV 64,8 kWh Inspiration Glasdach, Sound, Leder"
+kia,Kia EV6,black,02/2023,2023,48775,239.0,325,Automatic,Electric,506 km (Ort),506.0,7900.0,"77.4 KW AWD, Wärmepumpe, Navi"
+land-rover,Land Rover Range Rover Evoque,white,05/2023,2023,64844,227.0,309,Automatic,Hybrid,68 km (Ort),68.0,1000.0,P300E SE AWD PIH MY23
+mazda,Mazda MX-30,black,11/2020,2020,20970,107.0,145,Automatic,Electric,262 km (Ort),200.0,35456.0,e-SKYACTIV ELEKTRO First Edit CarPlay+HeadUP+Matrx
+mazda,Mazda CX-60,red,08/2022,2022,49490,241.0,328,Automatic,Hybrid,69 km (Ort),63.0,6500.0,AWD PHEV Aut. HOMURA
+mazda,Mazda MX-30,black,11/2022,2022,29500,107.0,145,Automatic,Electric,262 km (Ort),200.0,340.0,e-SKYACTIV EV MAKOTO
+mazda,Mazda CX-60,white,08/2022,2022,48490,141.0,192,Automatic,Hybrid,68 km (Ort),63.0,2000.0,AWD PHEV Automatik TAKUMI Panoramadach Bose Leder
+mercedes-benz,Mercedes-Benz E 300,black,02/2020,2020,35980,225.0,306,Automatic,Diesel Hybrid,48 km (Ort),44.0,116450.0,de T 9G-TRONIC AMG Line AHK HUD NAVI SHZ
+mercedes-benz,Mercedes-Benz C 300,white,03/2020,2020,35450,225.0,306,Automatic,Diesel Hybrid,53 km (Ort),49.0,63058.0,de T 9G-TRONIC Avantgarde LED-AHK-NAVI-uvm
+mercedes-benz,Mercedes-Benz EQC 400,silver,07/2021,2021,48770,300.0,408,Automatic,Electric,458 km (Ort),409.0,12700.0,"4M MULTIBEAM/Schiebe-D/Spiegel-P/Cam/19"""
+mercedes-benz,Mercedes-Benz EQE 300,blue,11/2022,2022,71840,180.0,245,Automatic,Electric,690 km (Ort),615.0,11050.0,AMG/Night-Paket/360°/AHK/Burmester Navi/Styling
+mercedes-benz,Mercedes-Benz EQB 300,white,08/2022,2022,54450,168.0,228,Automatic,Electric,495 km (Ort),411.0,6000.0,4M AMG Line LEDER DISTRONIC verfügbar
+mercedes-benz,Mercedes-Benz EQA,white,11/2022,2022,44790,140.0,190,Automatic,Electric,603 km (Ort),480.0,2552.0,250 Progressive SHZ Pano Kamera EasyPack
+mercedes-benz,Mercedes-Benz EQA,red,03/2023,2023,56900,140.0,190,Automatic,Electric,600 km (Ort),467.0,2999.0,250  AMG+PANO+HUD+MEMORY+THERMOTRONIC+360°++
+mercedes-benz,Mercedes-Benz EQS,black,04/2023,2023,144990,265.0,360,Automatic,Electric,599 km (Ort),524.0,5000.0,450 4M SUV AMG Sitzklim*Hypersc*Di.Light*AHK
+mercedes-benz,Mercedes-Benz EQA,black,05/2023,2023,56900,140.0,190,Automatic,Electric,597 km (Ort),465.0,2999.0,"250  AMG+AHK+PANO+DISTR+360°+20""+TOTWINKEL++"
+mini,MINI Cooper SE Countryman,black,03/2019,2019,28750,165.0,224,Automatic,Hybrid,34 km (Ort),32.0,53500.0,Chili HuD NAVI H&K
+mini,MINI Cooper SE,black,11/2019,2019,29890,135.0,184,Automatic,Electric,301 km (Ort),230.0,17200.0,"Cooper SE ALL4 Chili/18""/Kamera/Navi/LED/DAB"
+mini,MINI Cooper SE,grey,12/2020,2020,24680,135.0,184,Automatic,Electric,307 km (Ort),233.0,16584.0,Trim S*LED*Wärmepumpe*Schnell-Laden*
+mini,MINI Cooper SE,green,03/2020,2020,24980,135.0,184,Manual,Electric,304 km (Ort),231.0,37262.0,3-Türer DAB LED RFK Navi Komfortzg.
+mini,MINI Cooper SE,green,04/2020,2020,25970,135.0,184,Manual,Electric,303 km (Ort),230.0,27436.0,3-Türer RFK Navi SHZ LED PDC DAB Shz
+mini,MINI Cooper SE,red,10/2020,2020,28911,135.0,184,Manual,Electric,295 km (Ort),226.0,9034.0,Head-Up HK HiFi DAB LED Kamera uvm.
+mini,MINI Cooper SE,black,03/2020,2020,23950,135.0,184,Automatic,Electric,303 km (Ort),229.0,37150.0,Trim M DAB LED RFK Navi Komfortzg.
+mini,MINI Cooper SE,black,03/2020,2020,31900,135.0,184,Manual,Electric,300 km (Ort),228.0,31689.0,3-Türer Head-Up HK HiFi DAB LED RFK
+mini,MINI Cooper SE,silver,04/2020,2020,23466,135.0,184,Automatic,Electric,301 km (Ort),230.0,27817.0,"A,3-Türer,Head-Up,HK,Rückfahrkamera,DAB,LED Schein"
+mini,MINI Cooper SE,silver,02/2020,2020,23990,135.0,184,Automatic,Electric,301 km (Ort),270.0,23128.0,Trim L*Head Up*Harman Kardon*17 Zoll*
+mini,MINI Cooper SE,silver,09/2020,2020,24750,135.0,184,Automatic,Electric,304 km (Ort),231.0,13750.0,3-Türer DAB LED RFK Navi Komfortzg.
+mini,MINI Cooper SE,silver,12/2020,2020,21990,135.0,184,Manual,Electric,307 km (Ort),233.0,36113.0,3-Türer DAB LED Navi Tempomat
+mini,MINI Cooper SE,grey,03/2021,2021,26960,135.0,184,Manual,Electric,307 km (Ort),233.0,4850.0,3-Türer DAB LED Navi Tempomat
+mini,MINI Cooper SE,grey,02/2021,2021,26800,135.0,184,Manual,Electric,304 km (Ort),231.0,9708.0,3-Türer DAB LED RFK Navi Komfortzg.
+mini,MINI Cooper SE,grey,03/2021,2021,25990,135.0,184,Manual,Electric,310 km (Ort),234.0,14959.0,3-Türer DAB LED Navi Tempomat
+mini,MINI Cooper SE,grey,07/2021,2021,28920,135.0,184,Manual,Electric,308 km (Ort),230.0,17696.0,Elektro 3-Türer DAB LED RFK Navi ACC
+mini,MINI Cooper SE,red,07/2021,2021,31850,135.0,184,Automatic,Electric,307 km (Ort),230.0,18200.0,"Classic Trim 17""/Navi/Driv+ParkAss/ACC Autom./LED"
+mini,MINI Cooper SE,red,03/2021,2021,27998,75.0,102,Automatic,Electric,294 km (Ort),242.0,13564.0,Trim XL/Navi/Pano/HUD/Leder/Kamera
+mini,MINI Cooper SE,black,08/2021,2021,31899,135.0,184,Automatic,Electric,259 km (Ort),203.0,9300.0,SE MINI Yours Trim
+mini,MINI Cooper SE,silver,04/2021,2021,26420,135.0,184,Automatic,Electric,301 km (Ort),242.0,20200.0,3-Türer Navi Head-Up HK HiFi DAB SHZ LED PDC RFK
+mini,MINI Cooper SE,blue,07/2022,2022,32000,135.0,184,Automatic,Electric,234 km (Ort),226.0,4500.0,"32,6kWh Aut."
+mini,MINI Cooper SE,grey,11/2022,2022,28900,135.0,184,Automatic,Electric,309 km (Ort),232.0,2500.0,"Driving Assistent, LED, Navi,  DAB"
+mini,MINI Cooper SE,red,09/2022,2022,31450,135.0,184,Automatic,Electric,300 km (Ort),227.0,6550.0,3-Türer Head-Up HK HiFi DAB LED RFK
+mini,MINI Cooper SE,black,01/2022,2022,26796,135.0,184,Manual,Electric,309 km (Ort),231.0,9729.0,Classic Trim / Wärmepumpe / RFK
+mini,MINI Cooper SE,silver,03/2022,2022,27300,135.0,184,Automatic,Electric,304 km (Ort),229.0,18500.0,Yours Trim
+mini,MINI Cooper SE,green,04/2023,2023,40900,135.0,184,Automatic,Electric,307 km (Ort),231.0,2000.0,"Resolute Edition, Yours Leder,  DAB"
+mitsubishi,Mitsubishi Outlander,red,03/2019,2019,26999,99.0,135,Automatic,Hybrid,54 km (Ort),54.0,21220.0,Outlander Plug-in Hybrid BASIS 2.4 MIVEC 4WD
+mitsubishi,Mitsubishi Outlander,silver,08/2019,2019,25490,165.0,224,Automatic,Hybrid,54 km (Ort),54.0,61949.0,PHEV BASIS Spirit 2.4 4WD
+mitsubishi,Mitsubishi Eclipse Cross,blue,11/2022,2022,40590,138.0,188,Automatic,Hybrid,61 km (Ort),61.0,3000.0,PHEV Select Black 2.4 MIVEC 4WD
+mitsubishi,Mitsubishi Eclipse Cross,brown,12/2022,2022,35600,72.0,98,Automatic,Hybrid,61 km (Ort),61.0,100.0,Plug-in Hybrid PLUS mit Select -Paket
+mitsubishi,Mitsubishi Eclipse Cross,brown,11/2022,2022,36990,72.0,98,Automatic,Hybrid,61 km (Ort),61.0,1000.0,Plug-in Hybrid PLUS Select
+mitsubishi,Mitsubishi Eclipse Cross,brown,12/2022,2022,34900,138.0,188,Automatic,Hybrid,61 km (Ort),61.0,5.0,Plug-in Hybrid PLUS 4WD SmartLink
+mitsubishi,Mitsubishi Eclipse Cross,grey,12/2022,2022,39830,72.0,98,Automatic,Hybrid,61 km (Ort),61.0,10.0,Plug-in Hybrid Select Black 4WD
+mitsubishi,Mitsubishi Eclipse Cross,grey,11/2022,2022,34290,72.0,98,Automatic,Hybrid,61 km (Ort),61.0,1000.0,PHEV Plus Select 4WD
+mitsubishi,Mitsubishi Eclipse Cross,grey,12/2022,2022,34990,72.0,98,Automatic,Hybrid,61 km (Ort),61.0,15.0,Plug-in Hybrid PLUS mit Select -P.
+mitsubishi,Mitsubishi Eclipse Cross,grey,11/2022,2022,33150,72.0,98,Automatic,Hybrid,61 km (Ort),61.0,5.0,Plug-in Hybrid BASIS 2.4 MIVEC 4WD
+mitsubishi,Mitsubishi Eclipse Cross,red,12/2022,2022,38890,72.0,98,Automatic,Hybrid,61 km (Ort),61.0,4500.0,PHEV/ + Select -Paket/ Winterräder
+mitsubishi,Mitsubishi Eclipse Cross,red,12/2022,2022,39030,72.0,98,Automatic,Hybrid,61 km (Ort),61.0,10.0,Plug-in Hybrid PLUS Select -Paket
+mitsubishi,Mitsubishi Eclipse Cross,red,12/2022,2022,32800,138.0,188,Automatic,Hybrid,61 km (Ort),61.0,31.0,Plug-in Hybrid PLUS Aktion Nimm 8
+mitsubishi,Mitsubishi Eclipse Cross,red,06/2022,2022,39590,72.0,98,Automatic,Hybrid,61 km (Ort),61.0,3800.0,Plug-in Hybrid Select Black 4WD
+mitsubishi,Mitsubishi Eclipse Cross,red,11/2022,2022,41990,72.0,98,Automatic,Hybrid,61 km (Ort),61.0,4.0,Pl-in Hyb TOP 2.4 4WDLeder schwarz
+mitsubishi,Mitsubishi Eclipse Cross,black,12/2022,2022,34990,72.0,98,Automatic,Hybrid,61 km (Ort),61.0,15.0,Plug-in Hybrid PLUS 2.4 MIVEC 4WD
+mitsubishi,Mitsubishi Eclipse Cross,silver,12/2022,2022,36990,72.0,98,Automatic,Hybrid,61 km (Ort),61.0,10.0,Plug-in Hybrid PLUS Select -Paket
+mitsubishi,Mitsubishi Eclipse Cross,silver,12/2022,2022,37490,72.0,98,Automatic,Hybrid,61 km (Ort),61.0,15.0,Plug-in Hybrid PLUS Select -Paket
+mitsubishi,Mitsubishi Eclipse Cross,white,12/2022,2022,36790,72.0,98,Automatic,Hybrid,61 km (Ort),61.0,10.0,Plug-in Hybrid PLUS Select -Paket
+mitsubishi,Mitsubishi Eclipse Cross,white,12/2022,2022,35190,72.0,98,Automatic,Hybrid,61 km (Ort),61.0,20.0,Plug-in Hybrid PLUS Select -Paket
+mitsubishi,Mitsubishi Eclipse Cross,white,12/2022,2022,35490,72.0,98,Automatic,Hybrid,61 km (Ort),61.0,50.0,PHEV 2.4 Select MIVEC 4WD
+mitsubishi,Mitsubishi Eclipse Cross,blue,02/2023,2023,39990,72.0,98,Automatic,Hybrid,61 km (Ort),61.0,10.0,Plug-in Hybrid PLUS Select -Paket
+mitsubishi,Mitsubishi Eclipse Cross,grey,02/2023,2023,13450,72.0,98,Automatic,Hybrid,61 km (Ort),61.0,20.0,Plug-in Hybrid PLUS Select -Paket
+mitsubishi,Mitsubishi Eclipse Cross,red,04/2023,2023,37400,72.0,98,Automatic,Hybrid,61 km (Ort),61.0,2000.0,PHEV PLUS mit Select -Paket
+mitsubishi,Mitsubishi Eclipse Cross,black,02/2023,2023,37990,72.0,98,Automatic,Other,55 km (Ort),45.0,10000.0,Plug-In Hybrid 4WD Top mit Schiebedach - lieferbar
+mitsubishi,Mitsubishi Eclipse Cross,silver,02/2023,2023,39990,72.0,98,Automatic,Hybrid,61 km (Ort),61.0,10.0,Plug-in Hybrid PLUS Select -Paket
+mitsubishi,Mitsubishi Eclipse Cross,white,03/2023,2023,37990,72.0,98,Automatic,Hybrid,61 km (Ort),61.0,1000.0,PHEV ´´Bauer Limited Edition´´ 4WD
+mitsubishi,Mitsubishi Eclipse Cross,white,03/2023,2023,37900,138.0,188,Automatic,Hybrid,61 km (Ort),61.0,5.0,Plug-in Hybrid PLUS Select
+nissan,Nissan NV200,white,12/2017,2017,15950,75.0,102,Automatic,Electric,120 km (Ort),120.0,37000.0,"1,5 dCi AHK KLIMA RADIO BLUETOOTH USB"
+nissan,Nissan Leaf,grey,12/2018,2018,21700,110.0,150,Automatic,Electric,389 km (Ort),389.0,19700.0,N-Connecta 150 40 KWh Navi PDC 360 Kamera
+nissan,Nissan Leaf,black,07/2018,2018,19950,110.0,150,Automatic,Electric,389 km (Ort),270.0,35000.0,40 kWh TEKNA
+nissan,Nissan Leaf,red,03/2019,2019,20890,110.0,150,Automatic,Electric,389 km (Ort),270.0,79108.0,40 kWh TEKNA
+nissan,Nissan Leaf,black,08/2019,2019,23900,110.0,150,Automatic,Electric,389 km (Ort),270.0,26037.0,40 kWh N-Connecta
+nissan,Nissan Leaf,black,10/2019,2019,23990,110.0,150,Automatic,Electric,389 km (Ort),270.0,33000.0,Acenta (ZE1)
+nissan,Nissan NV200,black,01/2019,2019,20990,80.0,109,Automatic,Electric,301 km (Ort),200.0,27135.0,e-NV200 Comfort
+nissan,Nissan Leaf,white,04/2019,2019,21450,110.0,150,Automatic,Electric,300 km (Ort),250.0,32840.0,40 kWh TEKNA
+nissan,Nissan Leaf,blue,11/2020,2020,25900,160.0,218,Automatic,Electric,528 km (Ort),385.0,27200.0,62 kWh e+ N-Connecta Winter/Zweifarbenlack.
+nissan,Nissan NV200,red,03/2020,2020,24450,80.0,109,Automatic,Electric,301 km (Ort),200.0,24200.0,Comfort Trennwand ohne Fenster Klimaautomatik
+nissan,Nissan Leaf,black,08/2020,2020,24800,110.0,150,Automatic,Electric,389 km (Ort),270.0,28000.0,40 kWh Tekna
+nissan,Nissan NV200,white,03/2020,2020,27900,80.0,109,Automatic,Electric,301 km (Ort),200.0,8800.0,e-NV200 Premium Navi/Kamera
+nissan,Nissan Leaf,white,12/2020,2020,20900,110.0,150,Automatic,Electric,389 km (Ort),270.0,20349.0,40 kWh Visia
+nissan,Nissan Leaf,grey,12/2021,2021,25888,110.0,150,Automatic,Electric,389 km (Ort),270.0,2000.0,40 kWh ACENTA LADEKA. NAVI KLIMA ISOFIX WINTER-Pkt
+nissan,Nissan Leaf,black,08/2021,2021,23900,110.0,150,Automatic,Electric,389 km (Ort),270.0,12200.0,40 kWh Acenta Winter-Paket
+nissan,Nissan,bronze,10/2022,2022,56900,178.0,242,Automatic,Electric,533 km (Ort),533.0,990.0,Ariya 87KW Evolve Pack Vollausstattung
+nissan,Nissan Leaf,black,08/2022,2022,25900,110.0,150,Automatic,Electric,310 km (Ort),285.0,1964.0,40 kWh Tekna Bose Premium
+nissan,Nissan Leaf,black,12/2022,2022,33390,110.0,150,Automatic,Electric,389 km (Ort),270.0,10.0,Leaf MY21 40 kWh N-Connecta NAVI WINTER-PKT LED
+nissan,Nissan Leaf,black,12/2022,2022,16990,110.0,150,Automatic,Electric,389 km (Ort),270.0,10.0,40 kWh N-Connecta NAVI KLIMAAUTO R-KAM SHZ LED
+nissan,Nissan Leaf,white,05/2022,2022,34900,160.0,218,Automatic,Electric,528 km (Ort),385.0,7020.0,59 kWh e+ Tekna - BOSE - Full LED - Regnsensor
+nissan,Nissan Leaf,white,12/2022,2022,29390,110.0,150,Automatic,Electric,389 km (Ort),270.0,10.0,MY21 40 kWh N-Connecta*LED*WINTERPACKET
+nissan,Nissan Townstar,white,12/2022,2022,31588,90.0,122,Automatic,Electric,450 km (Ort),304.0,10.0,e-Townstar L1 N-Connecta NAVI KLIMAAUT. R-KAMERA
+nissan,Nissan Ariya,grey,03/2023,2023,47599,160.0,218,Automatic,Electric,523 km (Ort),385.0,10.0,Ariya 63 kWh NAVI APPLE-CARPLAY SITZHEIZUNG R-KAM
+nissan,Nissan Leaf,white,04/2023,2023,35890,160.0,218,Automatic,Electric,573 km (Ort),396.0,50.0,e+ Tekna+62KWh+KEINE BAFA+SOFORT+360°+LEDER  BC
+nissan,Nissan Ariya,white,03/2023,2023,52988,178.0,242,Automatic,Electric,531 km (Ort),531.0,10.0,87 kWh Evolve Pack PANODACH NAVI SITZHEIZUNG BOSE
+nissan,Nissan Townstar,white,02/2023,2023,36299,90.0,122,Automatic,Electric,450 km (Ort),301.0,10.0,e-Townstar L1 MY22
+opel,Opel Grandland X,black,07/2020,2020,27700,221.0,300,Automatic,Hybrid,57 km (Ort),59.0,25500.0,Allrad Hybrid 1.6Turbo Ultimate Vollleder RFK NAVI
+opel,Opel Corsa-e,blue,12/2021,2021,26900,100.0,136,Automatic,Electric,337 km (Ort),337.0,11800.0,Elegance
+opel,Opel Grandland X,blue,02/2021,2021,29990,221.0,300,Automatic,Hybrid,57 km (Ort),57.0,26880.0,Plug-in-Hybrid 4*4 1.6 DI Start/Stop Aut Ultimate
+opel,Opel Corsa-e,grey,04/2021,2021,22900,100.0,136,Automatic,Electric,330 km (Ort),330.0,30789.0,Elegance
+opel,Opel Grandland,blue,12/2022,2022,46965,221.0,300,Automatic,Hybrid,73 km (Ort),63.0,5000.0,"Ultimate Plug-in-Hybrid4,AHK, Navi,LED-Pixel-Licht"
+opel,Opel Astra,blue,12/2022,2022,37990,133.0,181,Automatic,Hybrid,76 km (Ort),67.0,4800.0,Hybrid Ultimate LED-Pixel-Licht HUD GSD Navi ACC
+opel,Opel Mokka-E,blue,12/2022,2022,34980,100.0,136,Automatic,Electric,496 km (Ort),338.0,5000.0,GS NAVI MATRIX RKAM
+opel,Opel Astra,blue,09/2022,2022,35400,133.0,181,Automatic,Other,70 km (Ort),59.0,8500.0,Astra Elegance Hybrid-Navi/Sitzheiz./Intelli-Drive
+opel,Opel Astra,blue,12/2022,2022,34990,133.0,181,Automatic,Hybrid,74 km (Ort),66.0,6000.0,Plug-In-Hybrid GS
+opel,Opel Grandland,blue,06/2022,2022,43490,221.0,300,Automatic,Hybrid,62 km (Ort),57.0,9458.0,Plug-in-Hybrid4 1.6 DI Automatik Ultimate
+opel,Opel Astra,yellow,12/2022,2022,33605,133.0,181,Automatic,Hybrid,74 km (Ort),66.0,8000.0,Plug-In-Hybrid Elegance (L)
+opel,Opel Mokka,grey,12/2022,2022,30965,100.0,136,Automatic,Electric,344 km (Ort),330.0,5000.0,"-e Elegance, Rückfahrkamera, Allwetterreifen"
+opel,Opel Mokka-E,grey,12/2022,2022,29950,100.0,136,Automatic,Electric,496 km (Ort),338.0,3500.0,Elegance (B/B)
+opel,Opel Mokka-E,green,12/2022,2022,32850,100.0,136,Automatic,Electric,496 km (Ort),338.0,100.0,Ultimate
+opel,Opel Grandland,red,12/2022,2022,44965,221.0,300,Automatic,Hybrid,74 km (Ort),64.0,5000.0,"Ultimate Plug-in-Hybrid 4, Navi, 360°-Kamera"
+opel,Opel Mokka-E,red,12/2022,2022,32990,100.0,136,Automatic,Electric,496 km (Ort),338.0,2500.0,GS
+opel,Opel Mokka-E,black,12/2022,2022,32990,100.0,136,Automatic,Electric,496 km (Ort),338.0,3900.0,GS
+opel,Opel Astra,silver,05/2022,2022,38750,165.0,224,Automatic,Other,74 km (Ort),66.0,11300.0,Plug-In-Hybrid GSe +SUPER AUSSTATTUNG+FÖRDERUNG
+opel,Opel Grandland,silver,11/2022,2022,39999,165.0,224,Automatic,Hybrid,70 km (Ort),54.0,4000.0,Plug-in-Hybrid 1.6 DI Automatik Business Edition
+opel,Opel Mokka-E,silver,10/2022,2022,33410,100.0,136,Automatic,Electric,496 km (Ort),338.0,2950.0,Elegance
+opel,Opel Astra,white,12/2022,2022,33950,133.0,181,Automatic,Hybrid,74 km (Ort),66.0,5700.0,Plug-In-Hybrid GS Line
+opel,Opel Grandland,white,12/2022,2022,49450,221.0,300,Automatic,Hybrid,80 km (Ort),65.0,8000.0,Plug-in-Hybrid 1.6 DI Automatik GSe
+opel,Opel Grandland,white,12/2022,2022,48850,221.0,300,Automatic,Hybrid,80 km (Ort),65.0,250.0,Plug-in-Hybrid 1.6 DI Automatik GSe
+opel,Opel Astra,blue,06/2023,2023,46990,133.0,181,Automatic,Hybrid,74 km (Ort),66.0,15.0,Plug-In-Hybrid Ultimate (L)
+opel,Opel Mokka-E,blue,02/2023,2023,35860,100.0,136,Automatic,Electric,496 km (Ort),338.0,5000.0,Ultimate
+opel,Opel Astra,red,04/2023,2023,32990,133.0,181,Automatic,Hybrid,70 km (Ort),66.0,5000.0,Plug-In-Hybrid Edition
+opel,Opel Mokka-E,red,02/2023,2023,34490,100.0,136,Automatic,Electric,496 km (Ort),338.0,10.0,Elegance
+opel,Opel Vivaro-e,white,05/2023,2023,37910,100.0,136,Automatic,Electric,328 km (Ort),229.0,10.0,M (50-kWh) SOFORT VERFÜGBAR | BAFA Prämie
+opel,Opel Astra,white,05/2023,2023,46990,165.0,224,Automatic,Hybrid,74 km (Ort),66.0,1500.0,Plug-In-Hybrid GSe
+opel,Opel Astra,white,04/2023,2023,43650,165.0,224,Automatic,Hybrid,73 km (Ort),64.0,250.0,Plug-In-Hybrid GSe  Navi HeadUp 360° Kamera
+peugeot,Peugeot 3008,blue,11/2022,2022,49990,220.0,299,Automatic,Hybrid,80 km (Ort),65.0,4000.0,Hybrid4 300 e-EAT8 GT
+peugeot,Peugeot 3008,blue,12/2022,2022,47990,165.0,224,Automatic,Hybrid,69 km (Ort),60.0,50.0,Hybrid 225 e-EAT8 GT Pack
+peugeot,Peugeot 3008,grey,12/2022,2022,58990,220.0,299,Automatic,Hybrid,71 km (Ort),62.0,10.0,Hybrid4 300 e-EAT8 GT Pack (M)
+peugeot,Peugeot 208,red,11/2022,2022,34990,100.0,136,Automatic,Electric,472 km (Ort),350.0,15.0,Elektromotor 136 GT
+peugeot,Peugeot 3008,red,11/2022,2022,55990,220.0,299,Automatic,Hybrid,80 km (Ort),65.0,1000.0,GT-Pack Hybrid4 300 e-EAT8 VOLLAUSTATTUNG
+peugeot,Peugeot 2008,black,12/2022,2022,32990,100.0,136,Automatic,Electric,460 km (Ort),331.0,2560.0,Elektro GT
+peugeot,Peugeot 2008,black,10/2022,2022,27980,100.0,136,Automatic,Electric,350 km (Ort),350.0,3780.0,2008 Elektro Allure Pack Navi SHz
+peugeot,Peugeot 208,black,12/2022,2022,25300,100.0,136,Automatic,Electric,491 km (Ort),350.0,1500.0,Elektromotor 136 Active Pack (U)
+peugeot,Peugeot 208,black,09/2022,2022,31850,100.0,136,Automatic,Electric,493 km (Ort),350.0,2850.0,Elektromotor 136 GT
+peugeot,Peugeot 308,white,12/2022,2022,34100,133.0,181,Automatic,Hybrid,74 km (Ort),65.0,3400.0,Hybrid 180 e-EAT8 GT (F)
+peugeot,Peugeot 2008,white,07/2022,2022,29990,100.0,136,Automatic,Electric,460 km (Ort),330.0,10330.0,Elektro Allure Pack
+peugeot,Peugeot 2008,white,12/2022,2022,35490,100.0,136,Automatic,Electric,460 km (Ort),330.0,10.0,(e-) GT
+peugeot,Peugeot 408,blue,03/2023,2023,48485,165.0,224,Automatic,Hybrid,68 km (Ort),62.0,3000.0,Plug-In Hybrid 225 e-EAT8 GT (F)
+peugeot,Peugeot,blue,03/2023,2023,39989,100.0,136,Unknown,Electric,331 km (Ort),341.0,10.0,e-2008 Elektromotor 136 GT*ACC*DAB+*CONNECT*LED*
+peugeot,Peugeot 408,blue,02/2023,2023,36250,165.0,224,Automatic,Hybrid,68 km (Ort),62.0,500.0,Hybrid 225 e-EAT8 GT (F)
+peugeot,Peugeot 3008,blue,02/2023,2023,51350,165.0,224,Automatic,Hybrid,69 km (Ort),60.0,7000.0,Hybrid 225 e-EAT8 GT Pack (M)
+peugeot,Peugeot 208,grey,03/2023,2023,35490,100.0,136,Automatic,Electric,350 km (Ort),362.0,10.0,Elektromotor 136 GT*DAB+*CONNECT*FULLLED*
+peugeot,Peugeot 408,grey,03/2023,2023,49990,165.0,224,Automatic,Hybrid,68 km (Ort),62.0,4500.0,Hybrid 225 e-EAT8 GT
+peugeot,Peugeot 408,grey,03/2023,2023,53850,165.0,224,Automatic,Hybrid,68 km (Ort),62.0,150.0,Hybrid 225 e-EAT8 GT (F)
+peugeot,Peugeot 408,grey,02/2023,2023,49950,165.0,224,Automatic,Hybrid,68 km (Ort),62.0,4000.0,Hybrid 225 e-EAT8 GT
+peugeot,Peugeot 308,green,02/2023,2023,44290,165.0,224,Automatic,Hybrid,69 km (Ort),62.0,150.0,Hybrid 225 e-EAT8 GT
+peugeot,Peugeot 308,green,02/2023,2023,34990,133.0,181,Automatic,Hybrid,67 km (Ort),64.0,100.0,SW Hybrid 180 e-EAT8 Active Pack
+peugeot,Peugeot 2008,red,02/2023,2023,34990,100.0,136,Automatic,Electric,460 km (Ort),331.0,3000.0,Elektro Allure Pack
+peugeot,Peugeot 2008,white,02/2023,2023,35350,100.0,136,Automatic,Electric,460 km (Ort),331.0,150.0,Elektro Allure (U)
+peugeot,Peugeot 3008,white,03/2023,2023,49850,165.0,224,Automatic,Hybrid,69 km (Ort),60.0,150.0,Hybrid 225 e-EAT8 GT Pack (M)
+peugeot,Peugeot 2008,orange,03/2023,2023,35985,100.0,136,Automatic,Electric,460 km (Ort),331.0,3500.0,Elektro GT (U)
+porsche,Porsche Taycan,blue,03/2022,2022,93900,350.0,476,Automatic,Electric,484 km (Ort),385.0,13058.0,Performance Plus Wärmepumpe Luftfederung
+porsche,Porsche Taycan,grey,12/2022,2022,124850,420.0,571,Automatic,Electric,554 km (Ort),443.0,12700.0,"Cross Turismo 4S Pano/4+1/Inno/21""/*voll* Navi"
+renault,Renault ZOE,white,12/2018,2018,11900,80.0,109,Automatic,Electric,300 km (Ort),280.0,42000.0,ZOE (Mietbatterie) 41 kwh Life mit LIMITED Paket
+renault,Renault ZOE,white,12/2018,2018,13500,80.0,109,Automatic,Electric,308 km (Ort),405.0,41000.0,ZOE (Mietbatterie) 41 kwh Life mit BOSE EDITION P
+renault,Renault ZOE,blue,12/2019,2019,15450,68.0,92,Automatic,Electric,316 km (Ort),200.0,15750.0,(ohne Batterie) 41 kwh Life
+renault,Renault ZOE,grey,04/2019,2019,20997,68.0,92,Automatic,Electric,316 km (Ort),200.0,19500.0,(ohne Batterie) 41 kwh Life
+renault,Renault ZOE,red,03/2019,2019,14190,80.0,109,Automatic,Electric,316 km (Ort),200.0,36800.0,Batteriemiete 41 kwh Life mit LIMITED Paket
+renault,Renault ZOE,red,03/2019,2019,13990,80.0,109,Automatic,Electric,316 km (Ort),200.0,36800.0,Batteriemiete 41 kwh Life mit LIMITED Paket
+renault,Renault ZOE,red,07/2019,2019,17990,80.0,109,Automatic,Electric,316 km (Ort),200.0,43478.0,(mit Batterie) 41 kwh Life mit LIMITED
+renault,Renault ZOE,violet,03/2019,2019,14990,80.0,109,Automatic,Electric,316 km (Ort),200.0,30580.0,(ohne Batterie) 41 kwh Life + LIMITED Paket
+renault,Renault ZOE,white,08/2019,2019,11790,65.0,88,Automatic,Electric,168 km (Ort),110.0,19000.0,(ohne Batterie) 22 kwh Life
+renault,Renault ZOE,grey,07/2020,2020,20449,80.0,109,Automatic,Electric,395 km (Ort),240.0,31550.0,Z.E. 50 LIFE inkl. Batterie
+renault,Renault ZOE,grey,06/2020,2020,17850,80.0,109,Automatic,Electric,395 km (Ort),240.0,22990.0,(ohne Batterie) Z.E. 50 EXPERIENCE
+renault,Renault ZOE,grey,01/2020,2020,16890,100.0,136,Automatic,Electric,386 km (Ort),240.0,25500.0,(ohne Batterie) Z.E. 50 INTENS
+renault,Renault ZOE,grey,06/2020,2020,13990,80.0,109,Automatic,Electric,316 km (Ort),200.0,32070.0,(Miet-Batterie) Z.E. 40 LIFE
+renault,Renault ZOE,black,12/2020,2020,21990,100.0,136,Automatic,Electric,386 km (Ort),240.0,40093.0,(mit Batterie) Z.E. 50 INTENS
+renault,Renault ZOE,black,05/2020,2020,15790,100.0,136,Automatic,Electric,386 km (Ort),240.0,47000.0,(ohne Batterie) Z.E. 50 INTENS
+renault,Renault ZOE,black,04/2020,2020,26990,80.0,109,Automatic,Electric,395 km (Ort),240.0,30193.0,Batteriemiete Z.E. 50 EXPERIENCE
+renault,Renault Twizy,black,12/2020,2020,13290,8.0,11,Automatic,Electric,70 km (Ort),65.0,7250.0,Life /  Inkl. Scheiben
+renault,Renault ZOE,white,09/2020,2020,14190,80.0,109,Automatic,Electric,316 km (Ort),200.0,24700.0,V Zen
+renault,Renault ZOE,white,01/2020,2020,13990,80.0,109,Automatic,Electric,395 km (Ort),240.0,43000.0,(ohne Batterie) Z.E. 50 EXPERIENCE
+renault,Renault ZOE,white,08/2020,2020,24499,100.0,136,Automatic,Electric,400 km (Ort),400.0,34000.0,(Kaufbatterie) Z.E. 50 INTENS BOSE
+renault,Renault Twingo,orange,12/2020,2020,21000,60.0,82,Automatic,Electric,270 km (Ort),190.0,8200.0,Electric VIBES
+renault,Renault Captur,blue,02/2021,2021,24990,116.0,158,Automatic,Hybrid,60 km (Ort),50.0,31500.0,E-TECH PLUG-in 160 INTENS
+renault,Renault Captur,blue,02/2021,2021,25190,116.0,158,Automatic,Hybrid,60 km (Ort),50.0,31500.0,E-TECH PLUG-in 160 INTENS
+renault,Renault Twizy,blue,09/2021,2021,8999,4.0,5,Automatic,Electric,100 km (Ort),100.0,49.0,(mit MIETBATTERIE) Life  45km/h AIRBAG
+renault,Renault Megane,grey,03/2021,2021,24980,67.0,91,Automatic,Hybrid,61 km (Ort),50.0,7892.0,Grandtour 1.6 E-TECH Plug-in Hybrid Intens
+renault,Renault ZOE,grey,10/2021,2021,25490,80.0,109,Automatic,Electric,395 km (Ort),240.0,13600.0,inkl. Batterie ZE50 EXPERIENCE*Allwetter*CCS*SHZ
+renault,Renault ZOE,red,03/2021,2021,29850,80.0,109,Automatic,Electric,395 km (Ort),240.0,1850.0,(mit Batterie) Z.E. 50 EXPERIENCE
+renault,Renault Twingo,red,07/2021,2021,21990,60.0,82,Automatic,Electric,270 km (Ort),190.0,4700.0,Electric ZEN
+renault,Renault ZOE,black,11/2021,2021,17900,100.0,136,Automatic,Electric,477 km (Ort),352.0,12669.0,(ohne Batterie) Z.E. 50 EXPERIENCE Navi LED
+renault,Renault ZOE,black,04/2021,2021,23990,100.0,136,Automatic,Electric,386 km (Ort),240.0,11652.0,Z.E. 50 EXPERIENCE inkl. Batterie
+renault,Renault ZOE,black,12/2021,2021,26900,100.0,136,Automatic,Electric,386 km (Ort),240.0,16900.0,(mit Batterie) Z.E. 50 INTENS
+renault,Renault ZOE,silver,07/2021,2021,30990,100.0,136,Automatic,Electric,386 km (Ort),240.0,11241.0,(mit Batterie) Z.E. 50 INTENS
+renault,Renault Twingo,white,06/2021,2021,21444,60.0,82,Automatic,Electric,270 km (Ort),190.0,43000.0,Electric ZEN
+renault,Renault Twingo,white,06/2021,2021,15990,60.0,82,Automatic,Electric,270 km (Ort),190.0,6500.0,Electric ZEN
+renault,Renault Twingo,orange,02/2021,2021,14900,60.0,82,Automatic,Electric,270 km (Ort),190.0,30500.0,Electric VIBES
+renault,Renault ZOE,blue,11/2022,2022,24880,100.0,136,Automatic,Electric,386 km (Ort),240.0,4000.0,EV50 135hp Iconic
+renault,Renault Megane E-Tech,grey,06/2022,2022,43690,160.0,218,Automatic,Electric,450 km (Ort),450.0,6200.0,EV60 220hp optimum charge Techno
+renault,Renault Megane E-Tech,white,12/2022,2022,41990,160.0,218,Automatic,Electric,529 km (Ort),429.0,50.0,Iconic EV60 220hp  Leder Google-System Kamera LED
+renault,Renault ZOE,white,06/2022,2022,15444,80.0,109,Automatic,Electric,450 km (Ort),350.0,15000.0,ZOE EV 50 110hp Equilibre
+renault,Renault ZOE,white,01/2022,2022,27980,100.0,136,Automatic,Electric,386 km (Ort),240.0,5000.0,(mit Batterie) Z.E. 50 EXPERIENCE
+renault,Renault Megane,grey,03/2023,2023,47500,160.0,218,Automatic,Electric,433 km (Ort),433.0,1000.0,E-Tech 100%elektrisch EV60 220hp optimum charge
+skoda,Skoda Citigo,black,11/2020,2020,20099,61.0,83,Automatic,Electric,353 km (Ort),254.0,2450.0,E IV Style **SOFORT VERFÜGBAR** SITZHEIZUNG PDC
+skoda,Skoda Octavia,black,11/2020,2020,34980,150.0,204,Automatic,Hybrid,74 km (Ort),66.0,60440.0,Combi 1.4 TSI iV DSG First Edition
+skoda,Skoda Octavia,black,12/2020,2020,33990,150.0,204,Automatic,Hybrid,74 km (Ort),66.0,16500.0,Combi 1.4 TSI iV DSG First Edition
+skoda,Skoda Superb,gold,10/2020,2020,36990,160.0,218,Automatic,Hybrid,56 km (Ort),52.0,71000.0,Combi 1.4 TSI iV DSG Sportline
+skoda,Skoda Enyaq,blue,11/2021,2021,30900,109.0,148,Automatic,Electric,450 km (Ort),350.0,20000.0,Enyaq iV 50
+skoda,Skoda Enyaq,blue,09/2021,2021,44700,150.0,204,Automatic,Electric,636 km (Ort),499.0,43500.0,iV 80 Pano Matrix kam360 Eco/Normal/Sport
+skoda,Skoda Enyaq,grey,06/2021,2021,29750,109.0,148,Automatic,Electric,471 km (Ort),352.0,36500.0,iV 50
+skoda,Skoda Citigo,red,02/2021,2021,29590,61.0,83,Automatic,Electric,300 km (Ort),260.0,23000.0,CITIGOe iV Style
+skoda,Skoda Superb,black,10/2021,2021,38990,115.0,156,Automatic,Hybrid,45 km (Ort),35.0,33000.0,Superb Combi 1.4 TSI iV DSG Sportline
+skoda,Skoda Enyaq,black,09/2021,2021,45980,150.0,204,Automatic,Electric,636 km (Ort),499.0,25000.0,iV 80
+skoda,Skoda,silver,07/2021,2021,35880,132.0,179,Automatic,Electric,493 km (Ort),394.0,46580.0,Enyaq iV 60
+skoda,Skoda Enyaq,silver,05/2021,2021,43990,150.0,204,Automatic,Electric,636 km (Ort),499.0,46490.0,Enyaq iV 80
+skoda,Skoda Enyaq,white,05/2021,2021,49000,150.0,204,Automatic,Electric,636 km (Ort),499.0,29000.0,iV 80
+skoda,Skoda Enyaq,grey,12/2022,2022,55980,220.0,299,Automatic,Electric,616 km (Ort),514.0,2000.0,"RS Lounge iV Coupé, AZV, IPA, HuD"
+skoda,Skoda Enyaq,grey,12/2022,2022,49900,150.0,204,Automatic,Electric,500 km (Ort),524.0,800.0,Enyaq iV 80
+skoda,Skoda Enyaq,black,06/2022,2022,50500,195.0,265,Automatic,Electric,610 km (Ort),492.0,7408.0,iV 80x
+skoda,Skoda Enyaq,white,12/2022,2022,43450,132.0,179,Automatic,Electric,481 km (Ort),375.0,1000.0,iV 60
+skoda,Skoda Enyaq,white,10/2022,2022,39100,132.0,179,Automatic,Electric,481 km (Ort),375.0,8189.0,iV 60
+skoda,Skoda,blue,05/2023,2023,36990,132.0,179,Automatic,Electric,481 km (Ort),375.0,500.0,Enyaq iV 60
+smart,smart forTwo,white,01/2014,2014,8490,55.0,75,Automatic,Electric,138 km (Ort),145.0,64900.0,coupe electric drive edition Passion inkl Batterie
+smart,smart forFour,red,10/2019,2019,17250,60.0,82,Automatic,Electric,163 km (Ort),120.0,13757.0,EQ prime Navi Leder Pano SH PDC BT Apps
+smart,smart forTwo,red,06/2019,2019,13850,60.0,82,Automatic,Electric,187 km (Ort),130.0,19248.0,EQ Panorama*22kW-Bordlader*Lenkrad heiz.*
+smart,smart forTwo,black,05/2019,2019,14870,60.0,82,Automatic,Electric,177 km (Ort),123.0,28932.0,EQ  cabrio Klima-Automatik+Alu+Sitzheizung
+smart,smart forFour,silver,04/2019,2019,14480,60.0,82,Automatic,Electric,175 km (Ort),127.0,38495.0,EQ Passion Cool & Media Navi 2xLadekabel
+smart,smart forTwo,white,05/2019,2019,12690,60.0,82,Automatic,Electric,182 km (Ort),126.0,15960.0,EQ  passion DAB LED PDC Cool&Media Tempoma
+smart,smart forTwo,green,12/2020,2020,20900,60.0,82,Automatic,Electric,150 km (Ort),150.0,9999.0,EQ Coupé prime Exclusive 22kW
+smart,smart forFour,blue,11/2021,2021,20555,60.0,82,Automatic,Electric,155 km (Ort),155.0,1583.0,EQ passion EXCLUSIVE/22kW/VOLL/NUR1583KM
+smart,smart forFour,brown,12/2021,2021,20666,60.0,82,Automatic,Electric,155 km (Ort),155.0,12281.0,EQ passion EXCLUSIVE: VOLL MIT FALTDACH!
+smart,smart forFour,red,11/2021,2021,20199,60.0,82,Automatic,Electric,155 km (Ort),155.0,3591.0,EQ passion EXCLUSIVE/22kW/LED/PANO/RFK++
+smart,smart forTwo,red,12/2021,2021,22422,60.0,82,Automatic,Electric,155 km (Ort),155.0,4567.0,EQ cabrio passion EXC:I JUST LOVE THE RED
+smart,smart forTwo,black,10/2021,2021,17977,60.0,82,Automatic,Electric,155 km (Ort),155.0,7894.0,EQ coupe passion EXCLUSIVE:SO SOLL´S SEIN
+smart,smart forFour,black,09/2021,2021,19088,60.0,82,Automatic,Electric,155 km (Ort),155.0,12874.0,EQ passion EXCLUSIVE/22kW/VOLL/TOP PREIS
+smart,smart forFour,black,11/2021,2021,20444,60.0,82,Automatic,Electric,155 km (Ort),155.0,2443.0,EQ passion: EXCLUSIVE + VOLLAUSSTATTUNG!
+smart,smart forTwo,black,10/2021,2021,17777,60.0,82,Automatic,Electric,155 km (Ort),155.0,7960.0,EQ coupe passion EXCLUSIVE !BLACKnBLACK!
+smart,smart forFour,white,12/2021,2021,21088,60.0,82,Automatic,Electric,155 km (Ort),155.0,6086.0,EQ passion EXCLUSIVE: ELEKTRISCH+OFFEN!
+smart,smart forTwo,blue,11/2022,2022,21800,60.0,82,Automatic,Electric,135 km (Ort),135.0,4480.0,smart fortwo cabrio EQ passion
+smart,smart forTwo,black,01/2022,2022,22977,60.0,82,Automatic,Electric,155 km (Ort),155.0,3517.0,EQ cabrio pulse EXCLUSIVE:SPORTLICH+OFFEN
+smart,smart forTwo,blue,04/2023,2023,16371,60.0,82,Automatic,Electric,177 km (Ort),130.0,3000.0,EQ 22kW-BL+Cool&Audio+Ganzjahresr.
+ssangyong,SsangYong Korando,blue,12/2021,2021,34450,140.0,190,Automatic,Electric,474 km (Ort),339.0,7000.0,E-Motion Titanium inkl. Allwetterbereifung.
+ssangyong,SsangYong Korando,blue,02/2022,2022,38490,140.0,190,Automatic,Electric,474 km (Ort),339.0,12359.0,KORANDO E-MOTION TITANIUM *100%- ELEKTRISCH*
+ssangyong,SsangYong Korando,blue,01/2022,2022,33333,140.0,190,Automatic,Electric,474 km (Ort),339.0,12500.0,E-Motion Titanium
+ssangyong,SsangYong Korando,black,12/2022,2022,38900,140.0,190,Automatic,Electric,474 km (Ort),339.0,350.0,"Rexton Sapphire 2.2 E-XDI Elegance+7 Sitze+20"""
+toyota,Toyota Prius,grey,10/2021,2021,34750,90.0,122,Automatic,Hybrid,59 km (Ort),45.0,14200.0,Plug-in Hybrid Executive
+toyota,Toyota Prius,grey,10/2021,2021,34550,90.0,122,Automatic,Hybrid,59 km (Ort),45.0,14200.0,Plug-in Hybrid Executive
+toyota,Toyota Proace,beige,10/2022,2022,52990,100.0,136,Automatic,Electric,423 km (Ort),315.0,800.0,Electric (75 kWh) L1 (8-Si.) Verso Team Deutschlan
+toyota,Toyota RAV 4,blue,08/2022,2022,56990,225.0,306,Automatic,Hybrid,98 km (Ort),75.0,7000.0,Plug-in-Hybrid Technik- und Style Paket
+toyota,Toyota Proace,grey,11/2022,2022,42900,100.0,136,Automatic,Electric,425 km (Ort),284.0,2500.0,City Verso 50 kWh L1 Team Deutschland
+toyota,Toyota bZ4X,grey,11/2022,2022,49990,160.0,218,Automatic,Electric,547 km (Ort),415.0,1000.0,X-MODE Comfort- und Technik-Paket
+toyota,Toyota bZ4X,grey,12/2022,2022,47990,150.0,204,Automatic,Electric,592 km (Ort),442.0,1150.0,bZ4X Comfort-Paket
+toyota,Toyota bZ4X,black,12/2022,2022,46410,150.0,204,Automatic,Electric,592 km (Ort),442.0,56.0,bZ4X Comfort- und Technik-Paket
+toyota,Toyota RAV 4,black,12/2022,2022,54475,225.0,306,Automatic,Hybrid,50 km (Ort),75.0,3000.0,Plug-in-Hybrid Technik-Paket
+toyota,Toyota bZ4X,silver,11/2022,2022,51990,160.0,218,Automatic,Electric,547 km (Ort),415.0,3000.0,bZ4X X-MODE Comfort- und Technik-Paket *Sofort*
+toyota,Toyota bZ4X,silver,06/2022,2022,46840,160.0,218,Automatic,Electric,547 km (Ort),415.0,2000.0,"X-MODE Comfort- und Technik-Paket, Panorama-Glasda"
+toyota,Toyota RAV 4,white,09/2022,2022,52540,225.0,306,Automatic,Hybrid,98 km (Ort),75.0,100.0,Plug-in-Hybrid Technik-Paket
+toyota,Toyota bZ4X,blue,02/2023,2023,46770,150.0,204,Automatic,Electric,583 km (Ort),436.0,1001.0,bZ4X mit Comfort-Paket
+toyota,Toyota bZ4X,grey,05/2023,2023,33390,150.0,204,Automatic,Electric,592 km (Ort),442.0,10.0,Comfort- und Technik-Paket
+toyota,Toyota bZ4X,red,04/2023,2023,48670,150.0,204,Automatic,Electric,592 km (Ort),442.0,2542.0,bZ4X 4x2 204 PS Comfort-Paket
+toyota,Toyota Prius,red,01/2023,2023,40980,90.0,122,Automatic,Hybrid,59 km (Ort),45.0,2500.0,Plug-in Hybrid Exe Kamera Navi Head UP Display
+toyota,Toyota bZ4X,black,03/2023,2023,49450,150.0,204,Automatic,Electric,592 km (Ort),442.0,25.0,BZ4X Comfort-Sport-Paket
+toyota,Toyota bZ4X,black,05/2023,2023,48753,150.0,204,Automatic,Electric,592 km (Ort),442.0,20.0,Comfort-Paket
+toyota,Toyota bZ4X,black,03/2023,2023,45800,150.0,204,Automatic,Electric,592 km (Ort),442.0,900.0,bZ4X Comfort-Paket
+toyota,Toyota bZ4X,black,05/2023,2023,51950,150.0,204,Automatic,Electric,592 km (Ort),442.0,10.0,Comfort-Paket
+toyota,Toyota bZ4X,black,05/2023,2023,45850,150.0,204,Automatic,Electric,644 km (Ort),513.0,12.0,Comfort 4x2
+toyota,Toyota bZ4X,black,02/2023,2023,53000,150.0,204,Automatic,Electric,592 km (Ort),442.0,100.0,Comfort- und Technik-Paket
+toyota,Toyota bZ4X,silver,01/2023,2023,48970,160.0,218,Automatic,Electric,547 km (Ort),415.0,17.0,"X-MODE Comfort- und Technik-Paket, Panorama-Glasda"
+toyota,Toyota bZ4X,silver,02/2023,2023,53780,160.0,218,Automatic,Electric,547 km (Ort),415.0,2000.0,"X-MODE Comfort- und Technik-Paket, Panorama-Glasda"
+toyota,Toyota bZ4X,silver,03/2023,2023,49460,150.0,204,Automatic,Electric,592 km (Ort),442.0,10.0,Comfort-Paket
+toyota,Toyota bZ4X,silver,02/2023,2023,57800,160.0,218,Automatic,Electric,547 km (Ort),415.0,1900.0,Comfort- und Technik-Paket 4x4 (X-Mode)
+toyota,Toyota bZ4X,silver,02/2023,2023,54940,150.0,204,Automatic,Electric,592 km (Ort),442.0,1500.0,Comfort- und Technik-Paket
+toyota,Toyota bZ4X,silver,02/2023,2023,53750,150.0,204,Automatic,Electric,592 km (Ort),442.0,100.0,Comfort- und Technik-Paket
+volkswagen,Volkswagen e-Golf,green,12/2017,2017,16999,100.0,136,Automatic,Electric,300 km (Ort),300.0,83000.0,e-Golf
+volkswagen,Volkswagen e-Golf,black,02/2018,2018,17599,100.0,136,Automatic,Electric,250 km (Ort),300.0,81000.0,VII Lim. R BMT/Start-Stopp 4Motion APR TUNI
+volkswagen,Volkswagen e-Golf,grey,11/2019,2019,21990,100.0,136,Automatic,Electric,231 km (Ort),215.0,39800.0,NAVI LED ACC Climatronic 8 fach bereift
+volkswagen,Volkswagen e-Golf,grey,12/2019,2019,22000,100.0,136,Automatic,Electric,220 km (Ort),250.0,30000.0,CCS Navigation LED 1 Hand
+volkswagen,Volkswagen Golf,silver,04/2019,2019,19999,100.0,136,Automatic,Electric,358 km (Ort),302.0,38750.0,BEV CCS AktivInfo SHZ Keyless PLA
+volkswagen,Volkswagen e-up!,blue,07/2020,2020,17750,60.0,82,Automatic,Electric,230 km (Ort),250.0,16100.0,Life Pro Performance Wärmepumpe ACC M&S
+volkswagen,Volkswagen up!,blue,07/2020,2020,17450,61.0,83,Automatic,Electric,230 km (Ort),240.0,16100.0,e-up
+volkswagen,Volkswagen Golf,silver,12/2020,2020,26990,150.0,204,Automatic,Hybrid,70 km (Ort),63.0,46825.0,1.4 eHybrid OPF DSG Style
+volkswagen,Volkswagen Golf,blue,01/2021,2021,63800,180.0,245,Automatic,Hybrid,59 km (Ort),52.0,21204.0,1.4 eHybrid OPF DSG GTE 180KW NAVI+LED+CARPLAY
+volkswagen,Volkswagen Golf,blue,02/2021,2021,27970,150.0,204,Automatic,Hybrid,70 km (Ort),63.0,18000.0,1.4 eHybrid OPF DSG Style
+volkswagen,Volkswagen e-up!,blue,02/2021,2021,18950,61.0,83,Automatic,Electric,350 km (Ort),256.0,25500.0,"Style 32,3 kWh (nahezu Vollausstattung)"
+volkswagen,Volkswagen up!,yellow,06/2021,2021,21000,61.0,83,Automatic,Electric,315 km (Ort),258.0,22000.0,e-up United
+volkswagen,Volkswagen Golf,grey,01/2021,2021,26970,180.0,245,Automatic,Hybrid,59 km (Ort),52.0,19000.0,1.4 eHybrid Elektro-Benzin PlugIn DSG GTE 180KW
+volkswagen,Volkswagen Golf,grey,02/2021,2021,27970,180.0,245,Automatic,Hybrid,59 km (Ort),52.0,32650.0,1.4 GTE eHybrid OPF DSG
+volkswagen,Volkswagen e-Golf,silver,06/2021,2021,24980,100.0,136,Automatic,Electric,231 km (Ort),215.0,12181.0,e-Golf
+volkswagen,Volkswagen ID.5,red,07/2022,2022,45000,150.0,204,Automatic,Electric,350 km (Ort),405.0,7500.0,"GTX 4Motion - Navi, Panoramadach, AHK, ..."
+volkswagen,Volkswagen ID.4,red,10/2022,2022,42500,150.0,204,Automatic,Electric,701 km (Ort),535.0,9700.0,"Pro Perf . NAVI, AHK, ACC, LED, WP, Komf. +"
+volkswagen,Volkswagen ID.3,silver,11/2022,2022,37400,107.0,145,Automatic,Electric,320 km (Ort),340.0,7000.0,ID.3 Pro
+volkswagen,Volkswagen ID.4,blue,05/2023,2023,53500,150.0,204,Automatic,Electric,607 km (Ort),470.0,100.0,Pro Performance mit Infotainment-Paket
+volkswagen,Volkswagen ID.3,grey,03/2023,2023,35699,150.0,204,Automatic,Electric,568 km (Ort),399.0,10.0,Pro Performance   **SOFORT VERFÜGBAR**
+volvo,Volvo XC60,green,11/2018,2018,52900,288.0,392,Automatic,Hybrid,42 km (Ort),33.0,24222.0,T8 Twin Engine AWD Geartronic Momentum
+volvo,Volvo XC60,black,11/2019,2019,44890,288.0,392,Automatic,Hybrid,49 km (Ort),49.0,67742.0,T8 R Design Plug-In Hybrid AWD
+volvo,Volvo XC60,white,12/2019,2019,47750,288.0,392,Automatic,Hybrid,48 km (Ort),49.0,81100.0,T8 Twin Engine AWD Geartronic R-Design *AHK*
+volvo,Volvo V60,blue,02/2020,2020,42422,288.0,392,Automatic,Hybrid,57 km (Ort),55.0,24697.0,T8 INSCRIPTION PIH AWD 8 PAKETE SELEKT
+volvo,Volvo XC60,grey,04/2020,2020,46750,288.0,392,Automatic,Hybrid,46 km (Ort),42.0,71036.0,T8 Twin Engine AWD Geartronic RDesign
+volvo,Volvo V60,white,09/2020,2020,42530,251.0,341,Automatic,Hybrid,57 km (Ort),54.0,36990.0,T6 Recharge Geartronic AWD *AHK * IntelliSafe PRO*
+volvo,Volvo XC40,white,06/2020,2020,39830,192.0,261,Automatic,Hybrid,51 km (Ort),41.0,31650.0,T5 Recharge DKG R-Design *ACC * 360°-Kam.*
+volvo,Volvo C40,blue,11/2021,2021,60900,300.0,408,Automatic,Electric,574 km (Ort),412.0,14450.0,Recharge Twin Motor Ultimate
+volvo,Volvo XC40,grey,12/2021,2021,63960,300.0,408,Automatic,Electric,527 km (Ort),410.0,15800.0,Recharge Twin Motor Ultimate *AHK * Standheizung*
+volvo,Volvo XC40,red,04/2021,2021,38830,192.0,261,Automatic,Hybrid,51 km (Ort),41.0,43550.0,T5 Recharge DKG R-Design *AHK * 360°-Kamera*
+volvo,Volvo XC40,black,02/2021,2021,59900,300.0,408,Automatic,Electric,519 km (Ort),400.0,12500.0,P8 AWD Recharge RDesign
+volvo,Volvo XC60,white,10/2021,2021,59990,251.0,341,Automatic,Hybrid,50 km (Ort),46.0,23300.0,T6 AWD Recharge Geartronic RDesign
+volvo,Volvo XC40,white,11/2021,2021,45780,192.0,261,Automatic,Hybrid,51 km (Ort),41.0,18806.0,T5 Recharge DKG RDesign
+volvo,Volvo C40,blue,09/2022,2022,51990,300.0,408,Automatic,Electric,559 km (Ort),424.0,3500.0,Recharge Twin Motor Ultimate
+volvo,Volvo C40,blue,02/2022,2022,61650,300.0,408,Automatic,Electric,541 km (Ort),415.0,6500.0,Recharge Twin Motor Ultimate
+volvo,Volvo C40,grey,09/2022,2022,52480,300.0,408,Automatic,Electric,559 km (Ort),424.0,9580.0,Recharge Twin Motor Ultimate
+volvo,Volvo C40,grey,02/2022,2022,49980,170.0,231,Automatic,Electric,571 km (Ort),400.0,4900.0,Recharge Single Motor Ultimate
+volvo,Volvo XC40,red,12/2022,2022,46990,192.0,261,Automatic,Hybrid,46 km (Ort),42.0,500.0,T5 Recharge DKG Plus Dark
+volvo,Volvo XC60,white,10/2022,2022,64990,257.0,349,Automatic,Hybrid,92 km (Ort),75.0,19000.0,T6 Recharge AWD Plus Dark +el.AHK+PANO+  SHD/LED
+volvo,Volvo XC60,black,03/2023,2023,74970,335.0,455,Automatic,Hybrid,93 km (Ort),77.0,8000.0,Recharge T8 Plus Bright  Standheizung/LED
