@@ -4,3 +4,10 @@ https://www.kaggle.com/code/scarfsman/german-used-cars-data-cleaning-eda
 - Outliers detection with box plot 
 above link
 
+--Make pieline using
+      from sklearn.pipeline import make_pipeline
+      make_pipeline(*steps)
+      Source: https://www.kaggle.com/code/alexandermalkov/training-predictions
+
+--Table of percentage of changes in the dataframe after EDA:
+    https://www.kaggle.com/code/scarfsman/german-used-cars-data-cleaning-eda
