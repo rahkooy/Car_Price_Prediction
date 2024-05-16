@@ -1,8 +1,11 @@
 TOODO: (i: todo for Hamid, e: todo for Hamed)
 
-    ---make a new clean_dataset.csv file
-    ---EDA to be put in a separate file
-    ---Models: to be completed using five fold cross validation and grid
+    1---EDA to be put in a separate file  ---->>>Needs work; Next Project?
+       --new file consists in selecting features, cleaning noisy data,
+      Outliers w plots and cleaning, feature engineering and creating final
+      data frame
+    2---Models: to be completed using five fold cross validation and grid
+    3---Make git repo visible in e's page
     
 
 Steps: 
