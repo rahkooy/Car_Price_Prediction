@@ -1,11 +1,8 @@
 TOODO: (i: todo for Hamid, e: todo for Hamed)
 
-    1---EDA to be put in a separate file  ---->>>Needs work; Next Project?
-       --new file consists in selecting features, cleaning noisy data,
-      Outliers w plots and cleaning, feature engineering and creating final
-      data frame
+    0---Make git repo visible in e's page
+    1---Models to be completed
     2---Models: to be completed using five fold cross validation and grid
-    3---Make git repo visible in e's page
     
 
 Steps: 
@@ -18,9 +15,9 @@ Steps:
   2-Modeling 
     -Linear Regression (i) 
     -Boosting (i), 
+    -Decision Tree (i)
     -KNN (e),
     -Random Forest (e), 
-    -Decision Tree (i)
     -Train/Test (i, e)
 3- Error Metrics
     - MAE
