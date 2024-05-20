@@ -1,6 +1,6 @@
 TODO: (i: todo for Hamid, e: todo for Hamed)
 
-    0---Make git repo visible in e's page
+    0---Make git repo visible in e's page 
     1---Models to be completed
     2---Models: to be completed using five fold cross validation and grid
     
