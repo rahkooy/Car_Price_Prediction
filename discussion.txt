@@ -1,12 +1,7 @@
 TODO: (i: todo for Hamid, e: todo for Hamed)
 
     0---Make git repo visible in e's page 
-    1---Models to be completed:
-        -Decisio Tree: Fix Error 
-        -Bagging: Plot
-        -AdaBoost: Plot
-        -KNN+ plot
-        -Random Forest +plot
+    1---KNN: Is Scaling OK?
     2-Model Comparison
     3-COnclusion
 
