@@ -1,35 +1,9 @@
-TODO: (i: todo for Hamid, e: todo for Hamed)
+--TODO List:
 
     0---Make git repo visible in e's page 
-    1---KNN: Is Scaling OK? Cross var predict or just knn.pred?
-    2-Model Comparison
+    1---KNN: Is Scaling OK? --->Future?
+    2-Model Comparison	
     3-Conclusion
-
-Steps: 
-  1-EDA (Exploratory Data Analysis)
-    - Initial Exploration
-    - Handling Missing Values
-    - Data type conversion
-    - Duplicate data
-    - EDA
-  2-Modeling 
-    -Linear Regression (i) 
-    -Boosting (i), 
-    -Decision Tree (i)
-    -KNN (e),
-    -Random Forest (e), 
-    -Train/Test (i, e)
-3- Error Metrics
-    - MAE
-    - MSE
-    - medAE
-    - R2
- 4-Visualization 
-    -Matplotlib (i,e), 
-    -Seaborn (i,e), 
-    -Folium (i,e)
-  5- Results 
-    Cross Validation
   
 Dataset:
 https://www.kaggle.com/datasets/wspirat/germany-used-cars-dataset-2023
@@ -40,6 +14,3 @@ https://www.kaggle.com/datasets/wspirat/germany-used-cars-dataset-2023
    https://www.kaggle.com/code/alexandermalkov/training-predictions
    --Pipeline, models and OPtimising:
    https://www.kaggle.com/code/alexandermalkov/transfomers-pipeline-and-gridsearch
-
-House Price Dataset:
-https://www.kaggle.com/code/ashydv/housing-price-prediction-linear-regression
