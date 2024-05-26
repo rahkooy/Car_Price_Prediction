@@ -1,9 +1,7 @@
 --TODO List:
 
-    0---Make git repo visible in e's page 
-    1---KNN: Is Scaling OK? --->Future?
-    2-Model Comparison	
-    3-Conclusion
+       --Bagging: add errors
+       --AdaBoost: Fix the model or delete it
   
 Dataset:
 https://www.kaggle.com/datasets/wspirat/germany-used-cars-dataset-2023
