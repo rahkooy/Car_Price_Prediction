@@ -1,3 +1,12 @@
+
+TODO:
+	--round up the output numbers
+	--output training accuracy as well and plot it along w test accuracy
+	--add a section using pipeline, make a function that takes model,
+	rather than applying each model. instead of putting original dataset just give a
+
+
+
 Dataset:
 https://www.kaggle.com/datasets/wspirat/germany-used-cars-dataset-2023
   --Cleaned
