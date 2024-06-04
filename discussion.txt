@@ -1,6 +1,7 @@
 
 TODO:
-	--round up the output numbers
+	--MSE looks very big: delete it
+	--round up the output errors
 	--output training accuracy as well and plot it along w test accuracy
 	--add a section using pipeline, make a function that takes model,
 	rather than applying each model. instead of putting original dataset just give a
