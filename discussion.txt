@@ -1,7 +1,8 @@
 
 TODO:
-	--MSE looks very big: delete it
-	--round up the output errors
+	-- errors list for cross validation are not listed in other models should be done like bagging
+        -- check the difference between predicting using Cross validation vs regressor itself (See Adaboost vs others
+       
 	--output training accuracy as well and plot it along w test accuracy
 	--add a section using pipeline, make a function that takes model,
 	rather than applying each model. instead of putting original dataset just give a
