@@ -1,6 +1,7 @@
 
 TODO:
 	-- errors list for cross validation are not listed in other models should be done like bagging
+    -- bagging: list for each fold of cross validation should be done by a for loop for each estimator
         -- check the difference between predicting using Cross validation vs regressor itself (See Adaboost vs others
 	--output training accuracy as well and plot it along w test accuracy
 	--add a section using pipeline, make a function that takes model,
