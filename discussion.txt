@@ -1,7 +1,7 @@
 
 TODO:
-	--Regression plot errors to be fixed ---E
-	--Regression: y_pred to be scaled? ---E
+	--Regression plot errors to be fixed ---I
+	--Regression: y_pred to be scaled? ---I
 	--Decision Tree: clean  ---E
 	--Bagging: fix out of bag  ---I
 	--Adaboost: Error is making a list of dataframes --- I
