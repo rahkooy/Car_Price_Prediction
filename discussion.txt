@@ -1,7 +1,7 @@
 
 TODO:
-	--Tests for all models to be done the same as regression
-	--Regression plot negative points to be fixed  --- E
+	--Tests for all models to be done the same as regression (KNN and Random Forest Done)
+	--Regression plot negative points to be fixed  --- (Fixed)
 	--Decision Tree: clean  ---E
 	--Bagging: fix out of bag  ---I
 	--Adaboost: Error is making a list of dataframes --- I
