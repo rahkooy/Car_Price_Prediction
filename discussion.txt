@@ -1,8 +1,6 @@
 
 TODO:
-	--Tests for all models to be done the same as regression (Adaboost and bagging ramained)
-	--Bagging: fix out of bag  ---I
-	--Adaboost: Error is making a list of dataframes --- I
+	--Adaboost: plot to be corrected
 
 
 
