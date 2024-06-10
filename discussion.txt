@@ -1,16 +1,8 @@
 
 TODO:
-	--Tests for all models to be done the same as regression (KNN and Random Forest Done)
-	--Regression plot negative points to be fixed  --- (Fixed)
-	--Decision Tree: clean  ---E
+	--Tests for all models to be done the same as regression (Adaboost and bagging ramained)
 	--Bagging: fix out of bag  ---I
 	--Adaboost: Error is making a list of dataframes --- I
-	-- errors list for cross validation are not listed in other
-	models should be done like bagging 
-        -- prediction must be via cross_val_pred (See Adaboost)
-	--output training accuracy as well and plot it along w test accuracy
-	--add a section using pipeline, make a function that takes model,
-	rather than applying each model. instead of putting original dataset just give a
 
 
 
