@@ -1,12 +1,14 @@
 
 TODO:
-	--Adaboost: plot to be corrected
+	--- regressor with scale + decision_tree + KNN + Random Forest (median_error is incorrect)
+    --Adaboost: plot to be corrected
 
 
 
 Dataset:
 https://www.kaggle.com/datasets/wspirat/germany-used-cars-dataset-2023
   --Cleaned
+
   https://www.kaggle.com/code/scarfsman/german-used-cars-data-cleaning-eda
 
    --Pipelines and models via regression and KNN:
