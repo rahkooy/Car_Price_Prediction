@@ -1,8 +1,5 @@
 
 TODO:
-	--- regressor with scale + decision_tree + KNN + Random Forest (median_error is incorrect)
-    --Adaboost: plot to be corrected
-
 
 
 Dataset:
