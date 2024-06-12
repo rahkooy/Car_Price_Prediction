@@ -2,27 +2,19 @@
 
 ### 1-Summary
 
-In this project six different models are used to predict the price of second hand cars based on the following selected features: year, power per kw, mileage in km and brand. In order to do this, the following models are used: Linear Regression, Decision Tree, Bagging, AdaBoost, K-Nearest Neighbours and Random Forest.  A variety of models is chosen, ranging from linear regression as a classical linear method to nonlinear methods such as decision tree and KNN and ensemble methods such as bagging.
+In this project six different models are used to predict the price of second hand cars based on the following selected features: year, power per kw, mileage in km and brand. The models used are: Linear Regression, Decision Tree, Bagging, AdaBoost, K-Nearest Neighbours and Random Forest.
 
-The chosen database consisted in more than 250,000 samples of used cars in Germany. The project starts with  with cleaning database and performing Explanatory Data Analysis. The data had a lot of noise and discrepancy and after EDA, the reamining data is about half of the original data. 
+The chosen database consisted in more than 250,000 samples of used cars in Germany. The project starts 
+with cleaning database and performing Explanatory Data Analysis (eda.ipynb). The data had a lot of noise and discrepancy and after EDA, the reamining data is about half of the original data. 
 
-Various erros are measured after performing our models. Common errors computed for all of our models  are  mean absolute error, mean squared error, median absolute error, R-squared error. Also accuracy error  is computed for certain relevant models. 
+Various erros are measured after performing our models on training and testing data using cross-validation. Common errors computed for all of our models  are  mean absolute error, median absolute error, R-squared error. Also accuracy error  is computed for certain relevant models. 
 
 For visualisation, scattered plots comparing tested and predicted prices are done for all models.
 
 
 ### 2-Model Comparison
--Linear Regression :shows overrfitting. 
 
--Decision Tree: quite low accuracy rate, took 45sec, shows overfitting
-
--Bagging: took very long time; accuracy rate increases as estimator increases, ran out of memory for higher estimators, plot shows satisfactory predictions fine for under 15000 Euro price
-
--AdaBoost: CHECK AGAIN. took longer than decisionvtree but less than bagging,
-
--KNN with cross validation: One of the best models. Very satisfactory r2 squared error value, much faster than bagging
-
--Random Forest wih cross validation: Even better than KNN, very good r2 squared error value
+The best performance was for KNN and Random Forest, given their R2 error as well as mean absolute and median absolute errors. This can be due to the diversity and sporadicity of the data. The predictions done by linear regression, decision tree regression, bagging and adaboost consider a lot of samples in order to  do prediction, while KNN and random forest choose the nearest samples which filters many non-redundant samples that were used in other models.
 
 
 ### 3-Recommendations and Future Work
